@@ -1,0 +1,60 @@
+---
+title: "Dax Kellie"
+image: "images/dax-boat_cropped.jpeg"
+favicon: images/favicon.ico
+about: 
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      href: "mailto:daxkellie@csiro.au"
+    - icon: twitter
+      href: "https://twitter.com/daxkellie?lang=en"
+    - icon: github
+      url: "https://github.com/daxkellie"
+    - icon: linkedin
+      href: "https://au.linkedin.com/in/dax-kellie-356473b2"
+    - icon: google
+      href: "https://scholar.google.com/citations?user=XcGVg2kAAAAJ&hl=en"
+    - icon: flower1
+      href: "https://osf.io/fxwjr/"
+---
+
+:::{#hero-heading}
+
+:::{.column-body-outset}
+
+## Education
+
+**Ph. D.** | Jul 2015 – Apr 2020  
+School of Biological Sciences, University of New South Wales  
+  * Thesis: *Evolutionary and psychological insights into the suppression of female sexuality*
+
+**Bachelor of Science (Honours)** | Feb 2011 - Dec 2014  
+School of Biological Sciences, University of New South Wales
+
+-----------------------------------------------------------------------------
+
+## Experience
+
+**Data Analyst** | Apr 2021 - Present  
+Atlas of Living Australia / CSIRO
+
+**Data Analyst** | Jul 2020 - Apr 2021  
+Indigenous Mental Health & Suicide Prevention, Australian Institute of Health & Welfare
+
+**Project Lead Researcher** | Feb 2020 - Jul 2020  
+School of Biological Sciences, UNSW 
+
+**Postgraduate Research** | Jul 2015 - Apr 2020  
+School of Biological Sciences, UNSW
+
+**Tutor & Lab Demonstrator** | Mar 2016 - Apr 2020  
+School of Biological Sciences, UNSW
+
+**Research Assistant** | Sep 2019 - Nov 2019  
+School of Psychological Sciences, University of Melbourne
+
+:::
+
+:::

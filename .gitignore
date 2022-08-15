@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# private data
+mysite/posts/2021-07-10_spotify_analysis/private_data/
