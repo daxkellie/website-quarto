@@ -3,9 +3,12 @@ project:
 
 website:
   title: "Dax Kellie"
+  description: "Evolutionary biologist & social psychologist | Data analyst | Music enthusiast"
   open-graph: true
   twitter-card:
+    image: "https://raw.githubusercontent.com/daxkellie/website-quarto/main/images/dax_talk.jpg"
     creator: "@daxkellie"
+    site: "@daxkellie"
     card-style: summary_large_image
   background: primary
   favicon: images/favicon.ico
