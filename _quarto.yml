@@ -41,5 +41,6 @@ format:
     code-block-border-left: true
     code-block-bg: "#FAF3ED"
 
-
+execute:
+  freeze: auto
 
