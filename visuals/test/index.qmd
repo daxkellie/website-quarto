@@ -1,0 +1,14 @@
+---
+title: "Sixtape"
+format: html
+---
+
+
+![](design_1.jpg)
+
+:::{.column-margin}
+
+Link: blah balh
+
+:::
+

@@ -1,0 +1,65 @@
+---
+title: "Music"
+format: 
+  html: 
+    css: theme.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, include=FALSE}
+library(htmltools)
+source("R/functions.R")
+```
+
+I make several Spotify playlists. You might like to listen sometime.
+
+::: {.grid}
+
+::: {.g-col-6}
+
+```{r}
+create_proj_card(
+  img_src = "images/design_1.jpg",
+  url = "https://open.spotify.com/playlist/2lu6BzKSxy9UJU6l59tD3a?si=8c2875f5ac4a4b76",
+  title = "Sixtape"
+)
+```
+
+:::
+
+::: {.g-col-6}
+
+### [Sixtape](https://open.spotify.com/playlist/2lu6BzKSxy9UJU6l59tD3a?si=8c2875f5ac4a4b76)
+
+A 6-song mixtape, updated weekly, where each mixtape has a new genre or theme
+
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-6}
+
+```{r}
+create_proj_card(
+  img_src = "images/design_2.jpg",
+  url = "https://open.spotify.com/playlist/4kygq8zI5lP9ErsYOwECCh?si=6759bc73d34e4416",
+  title = "Complete Collection"
+)
+```
+
+:::
+
+::: {.g-col-6}
+
+### [Complete Collection of Sixtapes](https://open.spotify.com/playlist/4kygq8zI5lP9ErsYOwECCh?si=6759bc73d34e4416)
+
+All previous Sixtape playlists in one convenient place (and in order). Missed a week or two? Prefer long playlists on shuffle? This is for you
+
+:::
+
+:::

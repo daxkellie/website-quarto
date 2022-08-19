@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  title: "Dax Kellie"
+  open-graph: true
+  twitter-card:
+    creator: "@daxkellie"
+    card-style: summary_large_image
+  background: primary
+  favicon: images/favicon.ico
+  navbar:
+    logo: images/favicon-32x32.png
+    background: "#FFFFFF"
+    foreground: "#e4b48c"
+    right:
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: blog.qmd
+        text: Blog
+      - href: dataviz.qmd
+        text: Dataviz
+      - href: music.qmd
+        text: Music
+      - href: https://twitter.com/daxkellie
+        icon: twitter
+      - href: https://github.com/daxkellie
+        icon: github
+  search: true
+  
+
+format:
+  html:
+    theme: 
+      - yeti
+      - custom_theme.scss
+    css: theme.css
+    toc: true
+    code-block-border-left: true
+    code-block-bg: "#FAF3ED"
+
+
+

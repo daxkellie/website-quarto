@@ -1,0 +1,15 @@
+---
+title: "3D Hex Map of Plant Observations in the Atlas of Living Australia"
+date: "05/23/2022"
+format: html
+---
+
+
+![](map_plants-3d.png)
+
+:::{.column-margin}
+
+[ALA Labs post on how to make this dataviz](https://labs.ala.org.au/posts/2022-05-17_3d-map/)
+
+:::
+

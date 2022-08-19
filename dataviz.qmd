@@ -1,0 +1,21 @@
+---
+listing:
+  template: templates/dataviz.ejs
+  contents:
+    - title: Dataviz
+      byline: "Made in R"
+      visuals:
+        - name: 3D Hex map
+          img: visuals/map_plants-3d/map_plants-3d.png
+          href: visuals/map_plants-3d/index.html
+        - name: eBird Observations
+          img: visuals/plot_ebird/plot_ebird.png
+          href: visuals/plot_ebird/index.html
+        - name: Seasonal records
+          img: visuals/map_seasonal-records/map_seasonal-records.jfif
+          href: visuals/map_seasonal-records/index.html
+format:
+  html:
+    css: dataviz.css
+
+---

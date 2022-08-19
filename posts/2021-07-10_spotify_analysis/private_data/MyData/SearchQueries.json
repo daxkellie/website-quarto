@@ -1,0 +1,820 @@
+[
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-11T02:00:01.469Z[UTC]",
+    "searchQuery" : "dangelo",
+    "searchInteractionURIs" : [
+      "spotify:artist:336vr2M3Va0FjyvB55lJEd"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-11T02:12:50.794Z[UTC]",
+    "searchQuery" : "not e",
+    "searchInteractionURIs" : [
+      "spotify:track:4ygJODcMdMzX2I8C93z8Dh"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-12T00:37:45.797Z[UTC]",
+    "searchQuery" : "hiatus",
+    "searchInteractionURIs" : [
+      "spotify:artist:43JlwunhXm1oqdKyOa2Z9Y"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-12T00:41:07.733Z[UTC]",
+    "searchQuery" : "herbie",
+    "searchInteractionURIs" : [
+      "spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-12T05:08:37.223Z[UTC]",
+    "searchQuery" : "sly",
+    "searchInteractionURIs" : [
+      "spotify:artist:5m8H6zSadhu1j9Yi04VLqD"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-12T05:43:45.952Z[UTC]",
+    "searchQuery" : "hall",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DZ06evO4danDO"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-12T06:01:05.269Z[UTC]",
+    "searchQuery" : "what a fool",
+    "searchInteractionURIs" : [
+      "spotify:track:2yBVeksU2EtrPJbTu4ZslK",
+      "spotify:track:0noO8i5ufVZwJHpuAPK475"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-13T01:38:02.210Z[UTC]",
+    "searchQuery" : "hall and oat",
+    "searchInteractionURIs" : [
+      "spotify:artist:77tT1kLj6mCWtFNqiOmP9H"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-13T01:38:51.143Z[UTC]",
+    "searchQuery" : "bruce ",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX9qkL85stcHs"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-13T01:39:57.157Z[UTC]",
+    "searchQuery" : "joy division",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWTSKFpOdYF1r"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-13T01:58:46.415Z[UTC]",
+    "searchQuery" : "genes",
+    "searchInteractionURIs" : [
+      "spotify:artist:1HvH97rzvCH6lfnLlgyfke"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-13T04:40:16.757Z[UTC]",
+    "searchQuery" : "omar apo",
+    "searchInteractionURIs" : [
+      "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-14T07:12:40.449Z[UTC]",
+    "searchQuery" : "dangelo",
+    "searchInteractionURIs" : [
+      "spotify:artist:336vr2M3Va0FjyvB55lJEd"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-15T09:10:13.968Z[UTC]",
+    "searchQuery" : "hoatis",
+    "searchInteractionURIs" : [
+      "spotify:artist:43JlwunhXm1oqdKyOa2Z9Y"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-16T05:51:03.428Z[UTC]",
+    "searchQuery" : "kendrick",
+    "searchInteractionURIs" : [
+      "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-17T02:43:50.282Z[UTC]",
+    "searchQuery" : "paul",
+    "searchInteractionURIs" : [
+      "spotify:artist:4STHEaNw4mPZ2tzheohgXB"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-18T06:35:00.014Z[UTC]",
+    "searchQuery" : "dangelo",
+    "searchInteractionURIs" : [
+      "spotify:artist:336vr2M3Va0FjyvB55lJEd"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-19T00:32:26.588Z[UTC]",
+    "searchQuery" : "prince",
+    "searchInteractionURIs" : [
+      "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-21T11:21:14.717Z[UTC]",
+    "searchQuery" : "reservoir",
+    "searchInteractionURIs" : [
+      "spotify:track:2zZW0SmKlZEoiDJwssNZqA"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-22T03:16:35.373Z[UTC]",
+    "searchQuery" : "glue bicep",
+    "searchInteractionURIs" : [
+      "spotify:track:2aJDlirz6v2a4HREki98cP"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-22T22:17:47.268Z[UTC]",
+    "searchQuery" : "smartless",
+    "searchInteractionURIs" : [
+      "spotify:show:0Yzd0g8NYmn27k2HFNplv7"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-25T06:18:12.552Z[UTC]",
+    "searchQuery" : "smartless",
+    "searchInteractionURIs" : [
+      "spotify:episode:46qDASHNwbX1rnRhk7V3t0"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2021-04-29T00:31:40.050Z[UTC]",
+    "searchQuery" : "smartless",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-29T02:05:00.732Z[UTC]",
+    "searchQuery" : "kiefer",
+    "searchInteractionURIs" : [
+      "spotify:artist:5lDtfHPqWN6MG9tFywnW8J"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-04-30T06:33:49.469Z[UTC]",
+    "searchQuery" : "stevie",
+    "searchInteractionURIs" : [
+      "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-01T01:16:12.504Z[UTC]",
+    "searchQuery" : "thunder",
+    "searchInteractionURIs" : [
+      "spotify:artist:4frXpPxQQZwbCu3eTGnZEw"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-02T13:24:36.357Z[UTC]",
+    "searchQuery" : "jonz",
+    "searchInteractionURIs" : [
+      "spotify:track:0cUMdJl2C1WFcnSsgYjBF9",
+      "spotify:track:7114JMdpaHhNEOlIY0Ljze",
+      "spotify:track:7114JMdpaHhNEOlIY0Ljze",
+      "spotify:track:0cUMdJl2C1WFcnSsgYjBF9"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-02T13:38:14.790Z[UTC]",
+    "searchQuery" : "kendrick",
+    "searchInteractionURIs" : [
+      "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-03T00:00:12.726Z[UTC]",
+    "searchQuery" : "sault",
+    "searchInteractionURIs" : [
+      "spotify:artist:1uRxRKC7d9zwYGSRflTKDR"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-05T06:35:06.997Z[UTC]",
+    "searchQuery" : "meteobomy",
+    "searchInteractionURIs" : [
+      "spotify:artist:54QMjE4toDfiCryzYWCpXX"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-07T05:30:13.292Z[UTC]",
+    "searchQuery" : "wu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-07T05:30:16.013Z[UTC]",
+    "searchQuery" : "myd",
+    "searchInteractionURIs" : [
+      "spotify:artist:3QFiymmbJlVBPpnrOatEAk"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-07T05:32:42.554Z[UTC]",
+    "searchQuery" : "wu-lu",
+    "searchInteractionURIs" : [
+      "spotify:artist:5yRolHpTcDas7KX7KiH6Wd"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-09T01:33:59.951Z[UTC]",
+    "searchQuery" : "dang",
+    "searchInteractionURIs" : [
+      "spotify:artist:336vr2M3Va0FjyvB55lJEd"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-10T22:17:35.285Z[UTC]",
+    "searchQuery" : "safety ",
+    "searchInteractionURIs" : [
+      "spotify:track:5O4NFbDqJ8SOfbjnIhdPDt"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-10T23:53:28.923Z[UTC]",
+    "searchQuery" : "safety",
+    "searchInteractionURIs" : [
+      "spotify:track:2ad8RivzdhuGwiRIldxGq5"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-11T00:47:12.140Z[UTC]",
+    "searchQuery" : "james murphy",
+    "searchInteractionURIs" : [
+      "spotify:playlist:1TA1DWseXhhmRGKXFXNADh"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-11T05:26:22.330Z[UTC]",
+    "searchQuery" : "the singers become ",
+    "searchInteractionURIs" : [
+      "spotify:track:6lwVJc2CBpCDszcpgtcTJ1",
+      "spotify:track:17cM8lL4Qs9XzqcQDyB8gM",
+      "spotify:track:17cM8lL4Qs9XzqcQDyB8gM"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-11T05:39:42.315Z[UTC]",
+    "searchQuery" : "james murphy",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-11T06:43:51.283Z[UTC]",
+    "searchQuery" : "monsters inc",
+    "searchInteractionURIs" : [
+      "spotify:track:5e0O7MjhNHq9G67qDFM8nR"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-11T07:34:22.932Z[UTC]",
+    "searchQuery" : "monsters inc",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-12T00:09:25.271Z[UTC]",
+    "searchQuery" : "lou reed",
+    "searchInteractionURIs" : [
+      "spotify:artist:42TFhl7WlMRXiNqzSrnzPL"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-12T00:16:51.599Z[UTC]",
+    "searchQuery" : "james mur",
+    "searchInteractionURIs" : [
+      "spotify:playlist:1tSDXytnkzsnTzMpwoDOyy"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-12T10:02:05.318Z[UTC]",
+    "searchQuery" : "thund",
+    "searchInteractionURIs" : [
+      "spotify:artist:4frXpPxQQZwbCu3eTGnZEw"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-13T08:05:22.324Z[UTC]",
+    "searchQuery" : "gaspa",
+    "searchInteractionURIs" : [
+      "spotify:artist:1xiaqHkrYo04iuDw2h7kft"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-13T08:24:05.424Z[UTC]",
+    "searchQuery" : "emperors new",
+    "searchInteractionURIs" : [
+      "spotify:album:37w7jftstQX2iq7RgNRtuh"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-20T02:15:27.865Z[UTC]",
+    "searchQuery" : "jungle",
+    "searchInteractionURIs" : [
+      "spotify:artist:59oA5WbbQvomJz2BuRG071",
+      "spotify:artist:59oA5WbbQvomJz2BuRG071"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-20T02:20:32.425Z[UTC]",
+    "searchQuery" : "metr",
+    "searchInteractionURIs" : [
+      "spotify:artist:54QMjE4toDfiCryzYWCpXX"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-20T08:21:15Z[UTC]",
+    "searchQuery" : "dan",
+    "searchInteractionURIs" : [
+      "spotify:artist:336vr2M3Va0FjyvB55lJEd"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-20T11:27:34.204Z[UTC]",
+    "searchQuery" : "walling on air",
+    "searchInteractionURIs" : [
+      "spotify:track:0LHqC4FmgTVusInNrImgrJ"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-20T11:27:50.885Z[UTC]",
+    "searchQuery" : "the snowman",
+    "searchInteractionURIs" : [
+      "spotify:album:2FcJpDHg4WaTcmqtPzJeuF"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-20T11:28:52.325Z[UTC]",
+    "searchQuery" : "walking in the air in",
+    "searchInteractionURIs" : [
+      "spotify:track:5nDTTjhx8K26ocbeD8R7LG",
+      "spotify:track:70CeCExbjrUPRI60qPFH2d",
+      "spotify:track:4J1HdIKwCtBHZrjP3h2yFn"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-20T11:29:39.138Z[UTC]",
+    "searchQuery" : "walking in the air instr",
+    "searchInteractionURIs" : [
+      "spotify:track:4KPD3yGvVgWiC46y2vbocX"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-20T11:31:21.642Z[UTC]",
+    "searchQuery" : "walking in the air instr",
+    "searchInteractionURIs" : [
+      "spotify:track:3kl9mfGpjIVCSd4TrwQeIs"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-20T11:32:24.689Z[UTC]",
+    "searchQuery" : "mike stric",
+    "searchInteractionURIs" : [
+      "spotify:artist:30R0rkL3lLItQiHbi4oS4c"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-21T09:19:37.776Z[UTC]",
+    "searchQuery" : "dangelo",
+    "searchInteractionURIs" : [
+      "spotify:artist:336vr2M3Va0FjyvB55lJEd"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-24T22:15:46.518Z[UTC]",
+    "searchQuery" : "my problem friend is ruining",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-25T00:10:33.322Z[UTC]",
+    "searchQuery" : "lcd soundsystem",
+    "searchInteractionURIs" : [
+      "spotify:artist:066X20Nz7iquqkkCW6Jxy6"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-25T01:15:55.057Z[UTC]",
+    "searchQuery" : "todd terje",
+    "searchInteractionURIs" : [
+      "spotify:artist:49gaZqfow2v8EEQmjGyEIw"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-26T10:28:13.494Z[UTC]",
+    "searchQuery" : "dan",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-27T00:45:34.897Z[UTC]",
+    "searchQuery" : "genesis",
+    "searchInteractionURIs" : [
+      "spotify:artist:1HvH97rzvCH6lfnLlgyfke"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-27T09:52:45.522Z[UTC]",
+    "searchQuery" : "chil",
+    "searchInteractionURIs" : [
+      "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-28T22:49:31.437Z[UTC]",
+    "searchQuery" : "khru",
+    "searchInteractionURIs" : [
+      "spotify:artist:2mVVjNmdjXZZDvhgQWiakk"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-28T22:53:02.811Z[UTC]",
+    "searchQuery" : "heroas",
+    "searchInteractionURIs" : [
+      "spotify:track:7Jh1bpe76CNTCgdgAdBw4Z"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-05-29T01:27:06.913Z[UTC]",
+    "searchQuery" : "heroas",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-01T01:27:48.804Z[UTC]",
+    "searchQuery" : "breakbot",
+    "searchInteractionURIs" : [
+      "spotify:artist:0iui2Be5CP8EWxvHYsVspL"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-01T01:42:55.252Z[UTC]",
+    "searchQuery" : "metronomy remix",
+    "searchInteractionURIs" : [
+      "spotify:playlist:32kQfjfgPtH87DNUd1EEuC"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-03T01:44:32.318Z[UTC]",
+    "searchQuery" : "gaspard",
+    "searchInteractionURIs" : [
+      "spotify:artist:1xiaqHkrYo04iuDw2h7kft"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-03T09:12:44.680Z[UTC]",
+    "searchQuery" : "breakbot remix",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6vcWK7IXaWckxl1yGhmu4c"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-03T09:14:36.033Z[UTC]",
+    "searchQuery" : "thundercat",
+    "searchInteractionURIs" : [
+      "spotify:artist:4frXpPxQQZwbCu3eTGnZEw",
+      "spotify:artist:4frXpPxQQZwbCu3eTGnZEw"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-03T09:44:27.778Z[UTC]",
+    "searchQuery" : "rock l",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-03T09:44:31.047Z[UTC]",
+    "searchQuery" : "talki",
+    "searchInteractionURIs" : [
+      "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-05T04:55:13.098Z[UTC]",
+    "searchQuery" : "dabgelo",
+    "searchInteractionURIs" : [
+      "spotify:artist:336vr2M3Va0FjyvB55lJEd"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-05T09:28:51.886Z[UTC]",
+    "searchQuery" : "avril 14",
+    "searchInteractionURIs" : [
+      "spotify:track:2MZSXhq4XDJWu6coGoXX1V"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-07T08:24:02.893Z[UTC]",
+    "searchQuery" : "beatles covers",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-07T08:24:52.049Z[UTC]",
+    "searchQuery" : "stecie veatles",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-07T08:25:03.413Z[UTC]",
+    "searchQuery" : "stevie we xan work ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-07T10:39:15.926Z[UTC]",
+    "searchQuery" : "beatles covers",
+    "searchInteractionURIs" : [
+      "spotify:playlist:3oaC8QWBTvYsrEzhNByCnq"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-07T10:40:48.699Z[UTC]",
+    "searchQuery" : "beatles covers",
+    "searchInteractionURIs" : [
+      "spotify:playlist:3aHd5xhSxrttakDlSD7TI4",
+      "spotify:playlist:0DQ5pmj2r8PgWSF6cAZOdD"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-09T01:39:17.588Z[UTC]",
+    "searchQuery" : "hiatus",
+    "searchInteractionURIs" : [
+      "spotify:artist:43JlwunhXm1oqdKyOa2Z9Y"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-16T01:22:36.198Z[UTC]",
+    "searchQuery" : "cake",
+    "searchInteractionURIs" : [
+      "spotify:artist:6A43Djmhbe9100UwnI7epV"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-16T01:22:55.752Z[UTC]",
+    "searchQuery" : "franz ferdinand",
+    "searchInteractionURIs" : [
+      "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A",
+      "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-16T01:23:58.453Z[UTC]",
+    "searchQuery" : "live alone james",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-16T01:24:10.278Z[UTC]",
+    "searchQuery" : "lcd soundsystem cover",
+    "searchInteractionURIs" : [
+      "spotify:playlist:50bJGTwPnyUt9J48lUVWne"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-16T05:29:33.430Z[UTC]",
+    "searchQuery" : "flaming lips",
+    "searchInteractionURIs" : [
+      "spotify:artist:16eRpMNXSQ15wuJoeqguaB"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-17T09:55:11.465Z[UTC]",
+    "searchQuery" : "you wont see",
+    "searchInteractionURIs" : [
+      "spotify:track:4LLBKnNCrSRrSjSTuiwjE9",
+      "spotify:track:4LLBKnNCrSRrSjSTuiwjE9"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-17T09:57:44.093Z[UTC]",
+    "searchQuery" : "beatles",
+    "searchInteractionURIs" : [
+      "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-21T09:15:49.394Z[UTC]",
+    "searchQuery" : "supernature",
+    "searchInteractionURIs" : [
+      "spotify:track:7Gq0mwnsctEFGsneABnNv3",
+      "spotify:track:6zydRWazli1P4IPQugbQdu",
+      "spotify:track:1MpDtfoWVGQxo0CQNky4dd",
+      "spotify:track:1MpDtfoWVGQxo0CQNky4dd"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-21T09:43:27.919Z[UTC]",
+    "searchQuery" : "ge",
+    "searchInteractionURIs" : [
+      "spotify:artist:1HvH97rzvCH6lfnLlgyfke"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-24T02:10:55.619Z[UTC]",
+    "searchQuery" : "hiatus",
+    "searchInteractionURIs" : [
+      "spotify:artist:43JlwunhXm1oqdKyOa2Z9Y"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-24T06:53:57.754Z[UTC]",
+    "searchQuery" : "lcd ",
+    "searchInteractionURIs" : [
+      "spotify:artist:066X20Nz7iquqkkCW6Jxy6"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-25T02:30:43.046Z[UTC]",
+    "searchQuery" : "hiatus",
+    "searchInteractionURIs" : [
+      "spotify:artist:43JlwunhXm1oqdKyOa2Z9Y"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-25T04:29:17.231Z[UTC]",
+    "searchQuery" : "tyler",
+    "searchInteractionURIs" : [
+      "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-25T06:28:23.554Z[UTC]",
+    "searchQuery" : "fuck the police",
+    "searchInteractionURIs" : [
+      "spotify:track:0DFRrABd2ppHhS3QaZuCJ1"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-27T08:41:29.376Z[UTC]",
+    "searchQuery" : "mood",
+    "searchInteractionURIs" : [
+      "spotify:album:456WeVeZk38VJuqg2sL7QG"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-28T06:25:13.528Z[UTC]",
+    "searchQuery" : "dangelo span",
+    "searchInteractionURIs" : [
+      "spotify:track:4euxFlxLWVGmZZLyYARTyE"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-06-29T05:58:42.125Z[UTC]",
+    "searchQuery" : "tribe",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-07-02T11:45:06.244Z[UTC]",
+    "searchQuery" : "classical gas",
+    "searchInteractionURIs" : [
+      "spotify:track:4DK3JpX2NkEMhCnltUEvUg"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-07-02T11:45:46.265Z[UTC]",
+    "searchQuery" : "tenacious d cl",
+    "searchInteractionURIs" : [
+      "spotify:track:1KRdD8IpxMXGB2883OVP2Q"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-07-02T12:52:25.156Z[UTC]",
+    "searchQuery" : "toxic",
+    "searchInteractionURIs" : [
+      "spotify:track:6I9VzXrHxO9rA9A5euc8Ak"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-07-04T13:39:51.719Z[UTC]",
+    "searchQuery" : "p",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2021-07-07T08:40:48.120Z[UTC]",
+    "searchQuery" : "dangelo",
+    "searchInteractionURIs" : [
+      "spotify:artist:336vr2M3Va0FjyvB55lJEd"
+    ]
+  }
+]
