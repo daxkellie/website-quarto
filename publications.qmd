@@ -1,11 +1,13 @@
 ---
 title: "Publications"
+freeze: true
 format: html
 ---
 
 # 2021
 
-Kellie, D. J., Blake, K. R., & Brooks, R. C. (2021). **Prejudice towards sex workers depends on the sexual activity and autonomy of their work, hobbies and daily activities.** *Collabra: Psychology*, *7*(1), 24386.  [https://doi.org/10.1525/collabra.24386](https://doi.org/10.1525/collabra.24386)  
+Kellie, D. J., Blake, K. R., & Brooks, R. C. (2021). **Prejudice towards sex workers depends on the sexual activity and autonomy of their work, hobbies and daily activities.** *Collabra: Psychology*, *7*(1), 24386.  [https://doi.org/10.1525/collabra.24386](https://doi.org/10.1525/collabra.24386) 
+*This paper is open access!*
 [Preprint on Psyarxiv](https://doi.org/10.31234/osf.io/zu8q5)
 
 Kellie, D. J., Blake, K. R., & Brooks, R. C. (2021). **Behind the makeup: The effects of cosmetics on women's self‐objectification, and their objectification by others**. *European Journal of Social Psychology*. [https://doi.org/10.1002/ejsp.2767](https://doi.org/10.1002/ejsp.2767)  
@@ -17,7 +19,8 @@ Kellie, D. J., Dixson, B., & Brooks, R. (2020). **Papa don’t preach? Using lie
 
 # 2019
 
-Kellie, D. J., Blake, K. R., & Brooks, R. (2019). **What drives female objectification? An investigation of appearance-based interpersonal perceptions and the objectification of women**. *PLoS One*, *14*(8), e0221388. [https://doi.org/10.1371/journal.pone.022138830](https://doi.org/10.1371/journal.pone.022138830)
+Kellie, D. J., Blake, K. R., & Brooks, R. (2019). **What drives female objectification? An investigation of appearance-based interpersonal perceptions and the objectification of women**. *PLoS One*, *14*(8), e0221388. [https://doi.org/10.1371/journal.pone.022138830](https://doi.org/10.1371/journal.pone.022138830)  
+[UNSW 3 Minute Thesis talk on this paper](https://www.youtube.com/watch?v=2f6GijzMCSU)
 
 # Preprints
 
