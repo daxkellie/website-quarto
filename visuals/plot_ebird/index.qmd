@@ -1,6 +1,6 @@
 ---
 title: "eBird Observations in the Atlas of Living Australia"
-date: "25/05/2022"
+date: "05/22/2022"
 format: html
 ---
 
