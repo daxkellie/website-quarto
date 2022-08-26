@@ -7,9 +7,7 @@ format: html
 # 2021
 
 Kellie, D. J., Blake, K. R., & Brooks, R. C. (2021). **Prejudice towards sex workers depends on the sexual activity and autonomy of their work, hobbies and daily activities.** *Collabra: Psychology*, *7*(1), 24386.  [https://doi.org/10.1525/collabra.24386](https://doi.org/10.1525/collabra.24386)  
-
 *This paper is open access!*  
-
 [Preprint on Psyarxiv](https://doi.org/10.31234/osf.io/zu8q5)
 
 Kellie, D. J., Blake, K. R., & Brooks, R. C. (2021). **Behind the makeup: The effects of cosmetics on women's self‐objectification, and their objectification by others**. *European Journal of Social Psychology*. [https://doi.org/10.1002/ejsp.2767](https://doi.org/10.1002/ejsp.2767)  
