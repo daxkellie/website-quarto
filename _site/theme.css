@@ -14,6 +14,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&display=swap');
 
 html {
   /*-- Main font sizes --*/
@@ -30,7 +31,6 @@ html {
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
   --heading-font:    'Oxygen', sans-serif;
-  --mono-font:       'Source Code Pro', monospace;
   --body-font:       'Montserrat', sans-serif;
   --navbar-font:     'Oxygen', sans-serif; /* websites + blogs only */
 }
@@ -41,7 +41,7 @@ html {
   --accent-green: #273B2D;
   --main-font: 'Montserrat', sans-serif;
   --subheader-font: 'Oxygen', sans-serif;
-  --mono-font: 'Source Code Pro', monospace;
+  --mono-font: 'Fira Mono', monospace;
   --header-font: 'Oxygen' sans-serif;
   --link-green: #71987d;
 }
