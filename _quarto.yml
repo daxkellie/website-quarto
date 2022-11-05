@@ -9,9 +9,9 @@ website:
     creator: "@daxkellie"
     card-style: summary_large_image
   background: primary
-  favicon: images/favicon.ico
+  favicon: images/favicon_1.ico
   navbar:
-    logo: images/favicon-32x32.png
+    logo: images/favicon-32x32_1.png
     background: "#FFFFFF"
     foreground: "#e4b48c"
     right:
