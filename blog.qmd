@@ -1,9 +1,10 @@
 ---
 title: "Blog"
 listing:
-  contents: posts
+  contents: blog
   sort: "date desc"
   type: default
   categories: true
-  
+title-block-banner: "#273B2D"
+title-block-banner-color: body
 ---

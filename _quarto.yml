@@ -8,7 +8,6 @@ website:
   twitter-card:
     creator: "@daxkellie"
     card-style: summary_large_image
-  background: primary
   favicon: images/favicon_1.ico
   navbar:
     logo: images/favicon-32x32_1.png
