@@ -3,7 +3,8 @@ title: "My Listening"
 description: |
   What have I been listening to? Let's find out...using plots!
 date: "08/30/2021"
-title-block-banner: "#273B2D"
+title-block-banner: "#C6732F"
+title-block-banner-color: "#ffffff"
 categories:
   - music
   - dataviz

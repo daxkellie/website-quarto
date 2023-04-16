@@ -5,6 +5,6 @@ listing:
   sort: "date desc"
   type: default
   categories: true
-title-block-banner: "#273B2D"
-title-block-banner-color: body
+title-block-banner: "#C6732F"
+title-block-banner-color: "#ffffff"
 ---

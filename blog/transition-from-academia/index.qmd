@@ -3,7 +3,8 @@ title: "Out of Academia (and everything’s fine)"
 description: |
   Transitioning from academia isn't easy, but it's not so bad, after all
 date: "09/23/2021"
-title-block-banner: "#273B2D"
+title-block-banner: "#C6732F"
+title-block-banner-color: "#ffffff"
 categories: 
   - academia
 freeze: true

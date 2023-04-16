@@ -12,7 +12,7 @@ website:
   navbar:
     logo: images/favicon-32x32_1.png
     background: "#FFFFFF"
-    foreground: "#e4b48c"
+    foreground: "#C6732F"
     right:
       - href: about.qmd
         text: About
@@ -39,5 +39,6 @@ format:
     css: theme.css
     toc: true
     code-block-border-left: true
-    code-block-bg: "#FAF3ED"
-
+    highlight-style: a11y
+    code-block-bg: "#F4F7F3"
+    fontsize: 1.13rem
