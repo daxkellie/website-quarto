@@ -1,5 +1,4 @@
 ---
-title: ""
 about: 
   template: jolla
 include-before-body: hero-image.html
