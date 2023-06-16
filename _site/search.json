@@ -32,7 +32,7 @@
     "href": "dataviz.html",
     "title": "Dax Kellie",
     "section": "",
-    "text": "Dataviz\n  Made in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Dataviz\n  Made in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -75,6 +75,20 @@
     "title": "Publications",
     "section": "Preprints",
     "text": "Preprints\nKellie, D. J., Parker, T., & Nakagawa, S. (in prep). To what extent do biological and methodological differences drive heterogeneity in results in ecology?\nPre-registration available on the Open Science Framework"
+  },
+  {
+    "objectID": "visuals/bats/index.html",
+    "href": "visuals/bats/index.html",
+    "title": "Top 5 Most Recorded Frogs in FrogID",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "visuals/frogs_top5/index.html",
+    "href": "visuals/frogs_top5/index.html",
+    "title": "Top 5 Most Recorded Frogs in FrogID",
+    "section": "",
+    "text": "Code"
   },
   {
     "objectID": "visuals/map_plants-3d/index.html",

@@ -5,6 +5,12 @@ listing:
     - title: Dataviz
       byline: "Made in R"
       visuals:
+        - name: Bats
+          img: visuals/bats/bats.png
+          href: visuals/bats/index.html
+        - name: Top 5 Frogs
+          img: visuals/frogs_top5/frogs_top5.png
+          href: visuals/frogs_top5/frogs_top5.png
         - name: 3D Hex map
           img: visuals/map_plants-3d/map_plants-3d.png
           href: visuals/map_plants-3d/index.html
