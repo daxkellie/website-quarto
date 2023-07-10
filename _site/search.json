@@ -32,7 +32,7 @@
     "href": "dataviz.html",
     "title": "Dax Kellie",
     "section": "",
-    "text": "Dataviz\n  Made in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Dataviz\n  Made in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -91,6 +91,13 @@
     "text": "Code"
   },
   {
+    "objectID": "visuals/hexmap_frog/index.html",
+    "href": "visuals/hexmap_frog/index.html",
+    "title": "Observations of Litoria peronii from majority citizen science vs non-citizen science projects",
+    "section": "",
+    "text": "Code\nThere were 2 other similar hex maps made for this figure, too:"
+  },
+  {
     "objectID": "visuals/map_plants-3d/index.html",
     "href": "visuals/map_plants-3d/index.html",
     "title": "3D Hex Map of Plant Observations in the Atlas of Living Australia",
@@ -108,6 +115,13 @@
     "objectID": "visuals/plot_ebird/index.html",
     "href": "visuals/plot_ebird/index.html",
     "title": "eBird Observations in the Atlas of Living Australia",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "visuals/stream_cs-records/index.html",
+    "href": "visuals/stream_cs-records/index.html",
+    "title": "Growth of records from citizen science vs non-citizen science projects",
     "section": "",
     "text": "Code"
   }

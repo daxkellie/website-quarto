@@ -1,0 +1,15 @@
+---
+title: "Growth of records from citizen science vs non-citizen science projects"
+date: "04/21/2023"
+format: html
+---
+
+
+![](fig2_cs-growth_2010-2021.png)
+
+:::{.column-margin}
+
+[Code](https://osf.io/8wxbf)
+
+:::
+

@@ -5,9 +5,15 @@ listing:
     - title: Dataviz
       byline: "Made in R"
       visuals:
+        - name: Frog CS map
+          img: visuals/hexmap_frog/fig3b_hexmap_frog.png
+          href: visuals/hexmap_frog/index.html
         - name: Bats
           img: visuals/bats/bats.png
           href: visuals/bats/index.html
+        - name: Frog Streamplot
+          img: visuals/stream_cs-records/fig2_cs-growth_2010-2021.png
+          href: visuals/stream_cs-records/index.html
         - name: Top 5 Frogs
           img: visuals/frogs_top5/frogs_top5.png
           href: visuals/frogs_top5/index.html
