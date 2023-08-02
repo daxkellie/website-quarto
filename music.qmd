@@ -1,8 +1,11 @@
 ---
 title: "Music"
+subtitle: "Something nice for your ears"
 format: 
   html: 
     css: theme.css
+title-block-banner: "#C6732F"
+title-block-banner-color: "#ffffff"
 ---
 
 ```{r setup, include=FALSE}
