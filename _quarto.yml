@@ -18,6 +18,8 @@ website:
         text: About
       - href: publications.qmd
         text: Publications
+      - href: talks.qmd
+        text: Talks
       - href: blog.qmd
         text: Blog
       - href: dataviz.qmd

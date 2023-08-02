@@ -9,6 +9,7 @@
 
 :root {
   --background-green: #234A30;
+  --background-brown: #C6732F;
   --accent-brown: #CC9364;
   --accent-green: #234A30;
   --mono-font: 'Fira Code', monospace;
@@ -198,4 +199,111 @@ h1, .h1 {
 
 .card:hover {
   opacity: 0.7;
+}
+
+
+/*-- Talk cards  */
+
+/*-- Team info cards --*/
+
+/* Three columns side by side */
+.card-column {
+  float: left;
+  width: 32%;
+  margin-bottom: 16px;
+  padding: 0 12px;
+  flex-direction: row;
+  display: block;
+}
+
+
+/* Display the columns below each other instead of side by side on small screens */
+
+@media screen and (max-width: 952px) {
+  .card-column {
+    width: 100%;
+    display: block;
+  }
+}
+
+/* Add some shadows to create a card effect */
+.talk-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding-bottom: 20px;
+}
+
+/* Some left and right padding inside the container */
+.container {
+  padding: 0 16px;
+}
+
+/* Clear floats */
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.talk-image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.talk-image-text {
+  color: var(--accent-green);
+  font-size: 14px;
+  padding: 16px 28px;
+}
+
+.talk-image:hover {
+  opacity: 0.7;
+}
+
+.talk-title {
+  color: var(--background-green) !important;
+  font-size: 1.2rem;
+  line-height: 1.1;
+  text-decoration: none !important;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.talk-title:hover {
+  color: var(--background-green) !important;
+  text-decoration: none !important;
+}
+
+.talk-info {
+  color: #222322;
+  font-size: .9rem;
+  margin-bottom:5px;
+  line-height: 1;
+}
+
+.talk-button-column {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  padding: 0 12px;
+}
+
+.talk-button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px;
+  color: white;
+  background-color: var(--link-green);
+  text-align: center;
+  cursor: pointer;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: .85rem;
+}
+
+.talk-button:hover {
+  background-color: var(--background-green);
 }
