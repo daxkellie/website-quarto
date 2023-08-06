@@ -1,13 +1,13 @@
 [
   {
-    "listing": "/dataviz.html",
-    "items": []
-  },
-  {
     "listing": "/blog.html",
     "items": [
       "/blog/transition-from-academia/index.html",
       "/blog/2021-07-10_spotify_analysis/index.html"
     ]
+  },
+  {
+    "listing": "/dataviz.html",
+    "items": []
   }
 ]

@@ -10,6 +10,17 @@ create_proj_card = function(img_src, url, title){
   )
 }
 
+create_writings_image = function(img_src, url){
+  tags$div(
+    class = "card-writings",
+    tags$a( href = url,
+            tags$img(class="card-img-writings",
+                     src=img_src,
+                     style="height:auto;")
+    )
+  )
+}
+
 create_talk_card <- function(talk_link, 
                              img_src, 
                              title, 

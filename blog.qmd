@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-subtitle: "Writings and some thoughts"
+subtitle: "Thoughts, writing, code"
 listing:
   contents: blog
   sort: "date desc"

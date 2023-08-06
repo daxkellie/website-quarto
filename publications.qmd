@@ -2,6 +2,8 @@
 title: "Publications"
 freeze: true
 format: html
+title-block-banner: "#C6732F"
+title-block-banner-color: "#ffffff"
 ---
 
 ## 2021
