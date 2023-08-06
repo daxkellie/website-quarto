@@ -153,9 +153,8 @@ h1, .h1 {
 @media (max-width: 992px){
   .bottom-text {
     font-size: 2.3em;
-
     margin-bottom: 2.5rem;
-}
+  }
 }
 
 @media screen and (max-width: 952px) {
@@ -176,9 +175,9 @@ h1, .h1 {
 /*-- About page  */
 
 @media (max-width: 991.98px) {
-div.quarto-about-trestles .about-entity .about-link {
+  .about-entity .about-link {
     margin-left: 3%;
-}
+  }
 }
 
 /*-- Music cards  */
@@ -318,7 +317,7 @@ div.quarto-about-trestles .about-entity .about-link {
 }
 
 
-/*-- Music cards  */
+/*-- Writings cards  */
 
 .card-writings {
   display: flex;
