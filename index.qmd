@@ -5,4 +5,4 @@ include-before-body: hero-image.html
 ---
 
 
-I'm an evolutionary biologist and social psychologist based in Canberra, ACT. Currently, I work as a data analyst and open science lead at the [Atlas of Living Australia](https://www.ala.org.au/). I value scientific transparency and reproducibility. I try to implement these practices as much as I can. Passionate about music. Love all genres. I play piano sometimes.
+I'm an evolutionary biologist and social psychologist based in Canberra, ACT. Currently, I work as a data analyst and science lead at the [Atlas of Living Australia](https://www.ala.org.au/). I value scientific transparency and reproducibility. I try to implement these practices as much as I can. Passionate about music. Love all genres. I play piano sometimes.
