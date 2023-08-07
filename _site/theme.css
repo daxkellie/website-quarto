@@ -337,9 +337,9 @@ h1, .h1 {
 
 .card-img-writings {
   height:100px!important;
+  min-width: 100%;
   width: 100%;
   object-fit: cover;
-  object-position: 50% 50%;
 }
 
 
