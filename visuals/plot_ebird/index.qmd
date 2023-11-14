@@ -1,7 +1,11 @@
 ---
-title: "eBird Observations in the Atlas of Living Australia"
+title: "eBird"
+subtitle: "eBird Observations in the Atlas of Living Australia"
 date: "05/22/2022"
 format: html
+filters:
+   - lightbox
+lightbox: auto
 ---
 
 

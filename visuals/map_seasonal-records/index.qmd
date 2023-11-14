@@ -1,7 +1,11 @@
 ---
-title: "Seasonal trends in daily species records in the Atlas Living Australia"
+title: "Seasonal trends"
+subtitle: "Daily species records in the Atlas Living Australia"
 date: "11/05/2021"
 format: html
+filters:
+   - lightbox
+lightbox: auto
 ---
 
 

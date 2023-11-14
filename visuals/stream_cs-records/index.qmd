@@ -1,7 +1,11 @@
 ---
-title: "Growth of records from citizen science vs non-citizen science projects"
+title: "Growth of citizen science"
+subtitle: "Growth of records from citizen science vs non-citizen science projects"
 date: "04/21/2023"
 format: html
+filters:
+   - lightbox
+lightbox: auto
 ---
 
 

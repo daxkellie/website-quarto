@@ -5,6 +5,12 @@ listing:
     - title: Dataviz
       byline: "Made in R"
       visuals:
+        - name: Australia (lines)
+          img: visuals/map_aus_lines/aus_lines.png
+          href: visuals/map_aus_lines/index.html
+        - name: Raincloud plot
+          img: visuals/raincloud/raincloud.png
+          href: visuals/raincloud/index.html
         - name: Frog CS map
           img: visuals/hexmap_frog/fig3b_hexmap_frog.png
           href: visuals/hexmap_frog/index.html

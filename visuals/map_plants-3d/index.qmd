@@ -1,7 +1,11 @@
 ---
-title: "3D Hex Map of Plant Observations in the Atlas of Living Australia"
+title: "Plant Observations"
+subtitle: "3D Hex Map of plant observations in the Atlas of Living Australia"
 date: "05/23/2022"
 format: html
+filters:
+   - lightbox
+lightbox: auto
 ---
 
 

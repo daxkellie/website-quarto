@@ -2,6 +2,9 @@
 title: "Bat Observations in the Atlas of Living Australia"
 date: "04/21/2023"
 format: html
+filters:
+   - lightbox
+lightbox: auto
 ---
 
 

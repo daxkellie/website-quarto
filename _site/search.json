@@ -4,26 +4,47 @@
     "href": "writings.html",
     "title": "Writings",
     "section": "",
-    "text": "Improving code reproducibility: Small steps with big impacts\nBlog post for Nature Ecology & Evolution Community\nJuly 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantify geographic sampling bias with {sampbias}\nPost for ALA Labs\nAugust 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownload plant species data by hexagon to make a 3D hex map\nPost for ALA Labs\nMay 2022"
+    "text": "Improving code reproducibility: Small steps with big impacts\nBlog post for Nature Ecology & Evolution Community\nJuly 2023"
   },
   {
-    "objectID": "visuals/plot_ebird/index.html",
-    "href": "visuals/plot_ebird/index.html",
-    "title": "eBird Observations in the Atlas of Living Australia",
+    "objectID": "writings.html#blogs",
+    "href": "writings.html#blogs",
+    "title": "Writings",
+    "section": "",
+    "text": "Improving code reproducibility: Small steps with big impacts\nBlog post for Nature Ecology & Evolution Community\nJuly 2023"
+  },
+  {
+    "objectID": "writings.html#tutorials",
+    "href": "writings.html#tutorials",
+    "title": "Writings",
+    "section": "Tutorials",
+    "text": "Tutorials\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlternatives to box plots: Using beeswarm and raincloud plots to summarise ecological data}\nPost for ALA Labs\nAugust 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantify geographic sampling bias with {sampbias}\nPost for ALA Labs\nAugust 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownload plant species data by hexagon to make a 3D hex map\nPost for ALA Labs\nMay 2022"
+  },
+  {
+    "objectID": "visuals/raincloud/index.html",
+    "href": "visuals/raincloud/index.html",
+    "title": "Leaf dry mass per area (LMA) of Australian plants",
+    "section": "",
+    "text": "ALA Labs how-to article"
+  },
+  {
+    "objectID": "visuals/map_seasonal-records/index.html",
+    "href": "visuals/map_seasonal-records/index.html",
+    "title": "Seasonal trends",
+    "section": "",
+    "text": "This dataviz was made by making separate components and manually placing them in the right place for a {xaringan} presentation\n\nCode for individual components"
+  },
+  {
+    "objectID": "visuals/map_aus_lines/index.html",
+    "href": "visuals/map_aus_lines/index.html",
+    "title": "Australia",
     "section": "",
     "text": "Code"
   },
   {
-    "objectID": "visuals/map_plants-3d/index.html",
-    "href": "visuals/map_plants-3d/index.html",
-    "title": "3D Hex Map of Plant Observations in the Atlas of Living Australia",
-    "section": "",
-    "text": "ALA Labs post on how to make this dataviz"
-  },
-  {
     "objectID": "visuals/frogs_top5/index.html",
     "href": "visuals/frogs_top5/index.html",
-    "title": "Top 5 Most Recorded Frogs in FrogID",
+    "title": "Top 5 frogs",
     "section": "",
     "text": "Code"
   },
@@ -39,25 +60,32 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Prejudice towards sex workers depends on the sexual activity and autonomy of their work, hobbies and daily activities.\nKellie, D. J., Blake, K. R., & Brooks, R. C. (2021). Collabra: Psychology, 7(1), 24386. https://doi.org/10.1525/collabra.24386 This paper is open access!\nPreprint on Psyarxiv\nBehind the makeup: The effects of cosmetics on women’s self‐objectification, and their objectification by others\nKellie, D. J., Blake, K. R., & Brooks, R. C. (2021). European Journal of Social Psychology. https://doi.org/10.1002/ejsp.2767\nPrepint on Psyarxiv"
+    "text": "Open Access Research Infrastructures are Critical for Improving the Accessibility and Utility of Citizen Science: A Case Study of Australia’s National Biodiversity Infrastructure, the Atlas of Living Australia (ALA)\nRoger, E., Kellie, D. J., Slatyer, C., Brenton, P., Torresan, O., Wallis, E., Zerger, A. (2023). Citizen Science: Theory and Practice, 8(1). Preprint on EcoEvoRxiv"
   },
   {
     "objectID": "publications.html#section",
     "href": "publications.html#section",
     "title": "Publications",
     "section": "",
-    "text": "Prejudice towards sex workers depends on the sexual activity and autonomy of their work, hobbies and daily activities.\nKellie, D. J., Blake, K. R., & Brooks, R. C. (2021). Collabra: Psychology, 7(1), 24386. https://doi.org/10.1525/collabra.24386 This paper is open access!\nPreprint on Psyarxiv\nBehind the makeup: The effects of cosmetics on women’s self‐objectification, and their objectification by others\nKellie, D. J., Blake, K. R., & Brooks, R. C. (2021). European Journal of Social Psychology. https://doi.org/10.1002/ejsp.2767\nPrepint on Psyarxiv"
+    "text": "Open Access Research Infrastructures are Critical for Improving the Accessibility and Utility of Citizen Science: A Case Study of Australia’s National Biodiversity Infrastructure, the Atlas of Living Australia (ALA)\nRoger, E., Kellie, D. J., Slatyer, C., Brenton, P., Torresan, O., Wallis, E., Zerger, A. (2023). Citizen Science: Theory and Practice, 8(1). Preprint on EcoEvoRxiv"
   },
   {
     "objectID": "publications.html#section-1",
     "href": "publications.html#section-1",
     "title": "Publications",
-    "section": "2020",
-    "text": "2020\nPapa don’t preach? Using lies to expose the truth about who suppresses female sexuality\nKellie, D. J., Dixson, B., & Brooks, R. (2020). Human Nature, 1-27. https://doi.org/10.1007/s12110-020-09372-7"
+    "section": "2021",
+    "text": "2021\nPrejudice towards sex workers depends on the sexual activity and autonomy of their work, hobbies and daily activities.\nKellie, D. J., Blake, K. R., & Brooks, R. C. (2021). Collabra: Psychology, 7(1), 24386. https://doi.org/10.1525/collabra.24386 This paper is open access!\nPreprint on PsyArXiv\nBehind the makeup: The effects of cosmetics on women’s self‐objectification, and their objectification by others\nKellie, D. J., Blake, K. R., & Brooks, R. C. (2021). European Journal of Social Psychology. https://doi.org/10.1002/ejsp.2767\nPrepint on PsyArXiv"
   },
   {
     "objectID": "publications.html#section-2",
     "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\nPapa don’t preach? Using lies to expose the truth about who suppresses female sexuality\nKellie, D. J., Dixson, B., & Brooks, R. (2020). Human Nature, 1-27. https://doi.org/10.1007/s12110-020-09372-7"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
     "title": "Publications",
     "section": "2019",
     "text": "2019\nWhat drives female objectification? An investigation of appearance-based interpersonal perceptions and the objectification of women\nKellie, D. J., Blake, K. R., & Brooks, R. (2019). PLoS One, 14(8), e0221388. https://doi.org/10.1371/journal.pone.022138830\n3 Minute Thesis talk I did on this paper"
@@ -123,7 +151,7 @@
     "href": "dataviz.html",
     "title": "Dataviz",
     "section": "",
-    "text": "Dataviz\n  Made in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Dataviz\n  Made in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "music.html",
@@ -147,16 +175,23 @@
     "text": "Code\nThere were 2 other similar hex maps made for this figure, too:"
   },
   {
-    "objectID": "visuals/map_seasonal-records/index.html",
-    "href": "visuals/map_seasonal-records/index.html",
-    "title": "Seasonal trends in daily species records in the Atlas Living Australia",
+    "objectID": "visuals/map_plants-3d/index.html",
+    "href": "visuals/map_plants-3d/index.html",
+    "title": "Plant Observations",
     "section": "",
-    "text": "This dataviz was made by making separate components and manually placing them in the right place for a {xaringan} presentation\n\nCode for individual components"
+    "text": "ALA Labs post on how to make this dataviz"
+  },
+  {
+    "objectID": "visuals/plot_ebird/index.html",
+    "href": "visuals/plot_ebird/index.html",
+    "title": "eBird",
+    "section": "",
+    "text": "Code"
   },
   {
     "objectID": "visuals/stream_cs-records/index.html",
     "href": "visuals/stream_cs-records/index.html",
-    "title": "Growth of records from citizen science vs non-citizen science projects",
+    "title": "Growth of citizen science",
     "section": "",
     "text": "Code"
   }
