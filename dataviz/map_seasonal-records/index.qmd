@@ -1,0 +1,23 @@
+---
+title: "Seasonal trends"
+subtitle: "Daily species records in the Atlas Living Australia"
+date: "11/05/2021"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+
+![](map_seasonal-records.jfif)
+
+:::{.column-margin}
+
+This dataviz was made by making separate components and manually placing them in the right place for a {xaringan} presentation  
+
+<br>
+
+[Code for individual components](https://github.com/AtlasOfLivingAustralia/science/tree/main/projects/data_holdings/temporal/plots/state-plots)
+
+:::
+

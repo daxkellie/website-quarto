@@ -1,0 +1,23 @@
+---
+listing:
+  template: ../../templates/art.ejs
+  contents:
+    - title: Art
+      byline: "Made by me"
+      visuals:
+        - name: ALA hex 2023
+          img: ../images/ala-hex.jpeg
+        - name: Platypus
+          img: ../images/Platypus_Squared-full.jpg
+        - name: potions hex
+          img: ../images/potions-hex.png
+        - name: New leaf
+          img: ../images/new_leaf.png
+format:
+  html:
+    css: art.css
+
+filters: 
+  - lightbox
+lightbox: true
+---

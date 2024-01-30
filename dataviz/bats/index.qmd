@@ -1,0 +1,18 @@
+---
+title: "Bat Observations in the Atlas of Living Australia"
+date: "04/21/2023"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+
+![](bats.png)
+
+:::{.column-margin}
+
+[Code](https://github.com/AtlasOfLivingAustralia/science/blob/main/comms/2023-04-14_bat-appreciation-day/bat-map.qmd)
+
+:::
+

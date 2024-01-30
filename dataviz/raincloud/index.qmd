@@ -1,0 +1,18 @@
+---
+title: "Leaf dry mass per area (LMA) of Australian plants"
+date: "04/21/2023"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+
+![](raincloud.png)
+
+:::{.column-margin}
+
+[ALA Labs how-to article](https://labs.ala.org.au/posts/2023-08-28_alternatives-to-box-plots/post.html)
+
+:::
+

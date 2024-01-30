@@ -16,15 +16,13 @@ website:
     right:
       - href: about.qmd
         text: About
-      - href: publications.qmd
-        text: Publications
-      - href: writings.qmd
-        text: Writings
-      - href: talks.qmd
+      - href: portfolio/index.qmd
+        text: Portfolio
+      - href: talks/index.qmd
         text: Talks
-      - href: blog.qmd
+      - href: blog/index.qmd
         text: Blog
-      - href: dataviz.qmd
+      - href: dataviz/index.qmd
         text: Dataviz
       - href: music.qmd
         text: Music

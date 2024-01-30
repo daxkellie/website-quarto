@@ -1,0 +1,72 @@
+---
+title: "Portfolio"
+subtitle: |
+  Projects, packages, research & things I've written in other places
+title-block-banner: "#C6732F"
+title-block-banner-color: "#ffffff"
+format: 
+  html:
+    anchor-sections: false
+    preview-links: true
+---
+
+```{r}
+#| include: false
+source("../R/functions.R")
+library(htmltools)
+```
+
+
+::: {.column-page}
+
+```{r}
+#| echo: false
+tags$div(class = "row",# Create a row for 3 team-member cards
+         
+create_portfolio_card(
+  title = "ALA Labs",
+  image = "images/ala-labs.png",
+  url = "https://labs.ala.org.au/",
+  description = "Atlas of Living Australia's website for coding solutions."
+),
+create_portfolio_card(
+  title = "galah",
+  image = "images/galah_logo.png",
+  url = "https://galah.ala.org.au/",
+  description = "The galah package uses tidy syntax to download biodiversity data from GBIF, ALA and other Living Atlases."
+),
+create_portfolio_card(
+  title = "Improving code reproducibility: Small steps with big impacts",
+  image = "images/nature-blog.avif",
+  url = "https://ecoevocommunity.nature.com/posts/improving-code-reproducibility-small-steps-with-big-impacts",
+  description = "Blog post for Nature Ecology & Evolution Community | July 2023"
+)
+)
+```
+
+```{r}
+#| echo: false
+tags$div(class = "row",# Create a row for 3 team-member cards
+         
+create_portfolio_card(
+  title = "Research",
+  image = "images/fig3b_hexmap_frog.png",
+  url = "research/index.html",
+  description = "Scientific publications and other academic research."
+),
+create_portfolio_card(
+  title = "Tutorials",
+  image = "images/raincloud.png",
+  url = "tutorials/index.html",
+  description = "Articles to teach R & Python"
+),
+create_portfolio_card(
+  title = "Art",
+  image = "images/new_leaf.png",
+  url = "art/index.html",
+  description = "I dabble."
+)
+)
+```
+
+:::

@@ -1,0 +1,19 @@
+---
+title: "Australia"
+subtitle: "Lines / Bad map for #30DayMapChallenge"
+date: "04/21/2023"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+
+![](aus_lines.png)
+
+:::{.column-margin}
+
+[Code](https://github.com/daxkellie/30DayMapChallenge2023/blob/main/scripts/aus-lines_not-frogs.R)
+
+:::
+

@@ -1,0 +1,30 @@
+---
+title: "Observations of *Litoria peronii* from majority citizen science vs non-citizen science projects"
+date: "04/21/2023"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+
+![](fig3b_hexmap_frog.png)
+
+:::{.column-margin}
+
+[Code](https://osf.io/uzesa)
+
+:::
+
+
+There were 2 other similar hex maps made for this figure, too: 
+
+
+:::{layout-ncol=2}
+
+![](fig3a_hexmap_bluetongue.png)
+
+
+![](fig3c_hexmap_finch.png)
+
+:::

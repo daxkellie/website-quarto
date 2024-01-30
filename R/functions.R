@@ -122,3 +122,27 @@ add_talk_button <- function(url, type) {
     }
   }
 }
+
+
+create_portfolio_card <- function(title, 
+                             image, 
+                             url, 
+                             alt,
+                             description,
+                             ...) {
+  dots <- list(...)
+  a(href = url,
+  tags$div(
+    class = "card-column-portfolio",
+    
+      tags$div(
+        class = "portfolio-card",
+        tags$img(class ="portfolio-image", src = image, alt = title, style = "width:100%"),
+      tags$div(
+        class = "container",
+        h4(class = "portfolio-title", title),
+        p(class = "portfolio-info", description)
+      ))
+    )
+  )
+}
