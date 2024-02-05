@@ -3,7 +3,8 @@ listing:
   template: ../../templates/art.ejs
   contents:
     - title: Art
-      byline: "Made by me"
+      byline: |
+        Made by me
       visuals:
         - name: ALA hex 2023
           img: ../images/ala-hex.jpeg

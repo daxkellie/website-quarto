@@ -27,7 +27,7 @@ create_portfolio_card(
   title = "ALA Labs",
   image = "images/ala-labs.png",
   url = "https://labs.ala.org.au/",
-  description = "Atlas of Living Australia's website for coding solutions."
+  description = "Atlas of Living Australia's website for coding solutions to scientific problems."
 ),
 create_portfolio_card(
   title = "galah",
@@ -65,6 +65,19 @@ create_portfolio_card(
   image = "images/new_leaf.png",
   url = "art/index.html",
   description = "I dabble."
+)
+)
+```
+
+```{r}
+#| echo: false
+tags$div(class = "row",# Create a row for 3 team-member cards
+         
+create_portfolio_card(
+  title = "Reports",
+  image = "images/indigenous-art.png",
+  url = "reports/index.html",
+  description = "Government publications I played a part in."
 )
 )
 ```

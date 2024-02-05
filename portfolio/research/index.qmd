@@ -7,16 +7,16 @@ title-block-banner: "#C6732F"
 title-block-banner-color: "#ffffff"
 ---
 
-At the moment my research interests are shifting, with my most recent publication about understanding how citizen science contributes to ecological monitoring and conservation.
+My research interests are shifting. My most recent publication is about understanding how citizen science contributes to ecological monitoring and conservation.
 
-Over my PhD, I was interested to understand where sexist attitudes come from and why these attitudes might vary. I used cultural, psychological and evolutionary theories to understand this variation. I spent a lot of time understanding the mechanisms behind dehumanisation and objectification, the view that another human is less than that; an animal or an object.
+Over my PhD, I was interested in understanding where sexist attitudes come from and why these attitudes might vary. I used cultural, psychological and evolutionary theories to understand this variation, and I spent a lot of time understanding the mechanisms behind dehumanisation and objectification, the view that another human is less than that; an animal or an object.
 
 ## Publications
 
 ### 2023
 
 [**Open Access Research Infrastructures are Critical for Improving the Accessibility and Utility of Citizen Science: A Case Study of Australia’s National Biodiversity Infrastructure, the Atlas of Living Australia (ALA)**](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.564?utm_source=nationaltribune&utm_medium=nationaltribune&utm_campaign=news) \
-Roger, E., Kellie, D. J., Slatyer, C., Brenton, P., Torresan, O., Wallis, E., Zerger, A. (2023). *Citizen Science: Theory and Practice*, *8*(1).
+Roger, E., Kellie, D. J., Slatyer, C., Brenton, P., Torresan, O., Wallis, E., Zerger, A. (2023). *Citizen Science: Theory and Practice*, *8*(1). \ 
 [Preprint on EcoEvoRxiv](https://ecoevorxiv.org/repository/view/3650/)
 
 ### 2021

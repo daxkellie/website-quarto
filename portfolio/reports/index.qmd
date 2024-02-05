@@ -1,0 +1,19 @@
+---
+title: "Reports"
+subtitle: "Government publications I helped with"
+freeze: true
+format: html
+title-block-banner: "#C6732F"
+title-block-banner-color: "#ffffff"
+---
+
+## Publications
+
+### 2022
+
+[**Protective and risk factors for suicide among Indigenous Australians**](https://www.indigenousmhspc.gov.au/getattachment/2a25cdd8-d8a7-4373-938f-2aa51a0b4128/aihw-2022-protective-and-risk-factors.pdf?v=1260) \
+Australian Institute of Health and Welfare
+
+[**Investigating enhancements of Indigenous data in suicide-relevant data sets**](https://www.indigenousmhspc.gov.au/getattachment/9f5410e0-a297-4437-86f5-878029c359ef/investigating-enhancements-of-indigenous-data-in-suicide-relevant-data-sets.pdf?v=1259) \
+Australian Institute of Health and Welfare
+

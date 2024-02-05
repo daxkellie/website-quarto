@@ -18,6 +18,8 @@ about:
       href: "https://scholar.google.com/citations?user=XcGVg2kAAAAJ&hl=en"
     - icon: flower1
       href: "https://osf.io/fxwjr/"
+    - icon: instagram
+      href: "https://www.instagram.com/daxcantfax/?hl=en"
 ---
 
 :::{#hero-heading}
@@ -27,8 +29,8 @@ about:
 ## Education
 
 **Ph. D.** | Jul 2015 – Apr 2020  
-School of Biological Sciences, University of New South Wales  
-  * Thesis: *Evolutionary and psychological insights into the suppression of female sexuality*
+School of Biological Sciences, University of New South Wales<br>
+[Thesis: *Evolutionary and psychological insights into the suppression of female sexuality*]{style="font-size:0.8rem;"}
 
 **Bachelor of Science (Honours)** | Feb 2011 - Dec 2014  
 School of Biological Sciences, University of New South Wales
@@ -38,7 +40,7 @@ School of Biological Sciences, University of New South Wales
 ## Experience
 
 **Science Lead & Data Analyst** | Apr 2021 - Present  
-Atlas of Living Australia / CSIRO
+Atlas of Living Australia, CSIRO
 
 **Data Analyst** | Jul 2020 - Apr 2021  
 Indigenous Mental Health & Suicide Prevention, Australian Institute of Health & Welfare
