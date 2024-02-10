@@ -8,7 +8,6 @@ format:
   html:
     anchor-sections: false
     preview-links: true
-    css: theme.css
 ---
 
 ```{r}

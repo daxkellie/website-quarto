@@ -19,7 +19,7 @@
 /* Add any additional CSS rules below                      */
 
 body {
-  font-family: 'Alegreya Sans',sans-serif;
+  font-family: 'Montserrat',serif;
 }
 
 .navbar {
@@ -117,9 +117,12 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 }
 
 h1, .h1 {
-    font-size: calc(2rem + 1.03vw);
+    font-size: calc(2rem + .9vw);
 }
 
+a {
+  text-decoration: none;
+}
 
 /* -----------HERO IMAGE AT TOP OF PAGE -----------*/
 

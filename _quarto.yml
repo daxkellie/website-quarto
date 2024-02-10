@@ -42,5 +42,5 @@ format:
     code-block-border-left: true
     highlight-style: a11y
     code-block-bg: "#F4F7F3"
-    fontsize: 1.15rem
+    fontsize: 1.16rem
     mainfont: 'Alegreya Sans'
