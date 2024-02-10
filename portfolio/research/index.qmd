@@ -3,8 +3,8 @@ title: "Research"
 subtitle: "Scientific publications and other articles"
 freeze: true
 format: html
-title-block-banner: "#C6732F"
-title-block-banner-color: "#ffffff"
+title-block-banner: "#F8EFE7"
+title-block-banner-color: "#934C12"
 ---
 
 My research interests are shifting. My most recent publication is about understanding how citizen science contributes to ecological monitoring and conservation.

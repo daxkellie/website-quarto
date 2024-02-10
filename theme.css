@@ -1,29 +1,35 @@
 /* This must remain at the top of this file.                 */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;1,400;1,500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,500;0,700;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');  
+
 
 :root {
   --background-green: #234A30;
-  --background-brown: #C6732F;
+  --background-brown: #934C12;
   --accent-brown: #CC9364;
   --accent-green: #234A30;
   --mono-font: 'Fira Code', monospace;
-  --header-font: 'Lora', serif;
-  --link-green: #71987d;
+  --body-font: 'Montserrat' serif;
+  --link-green: #3E7A50;
 }
 
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
 
+body {
+  font-family: 'Alegreya Sans',sans-serif;
+}
+
+.navbar {
+  font-family: 'Josefin Sans',sans-serif;
+}
+
 .navbar-title {
   position: relative;
   cursor: pointer;
+  font-family: var(--header-font)!important;
 
 }
 
@@ -38,10 +44,10 @@
       height: 2px;
       background-color: var(--accent-brown) !important;
       transition: all 0.3s ease;
-      transform: scale(0.85);
+      transform: scale(0.8);
 }
 .navbar-title:hover:before {
-      top: 0;
+      top: -6px;
       transform: scale(1);
 }
 .navbar-title:hover:after {
@@ -98,7 +104,7 @@ a.nav-link:hover:after {
 }
 
 
-.panel-caption, caption, .figure-caption {
+.panel-caption, caption, .figure-caption, figcaption {
     font-size: .78rem;
     margin-left: 8%;
     margin-right: 8%;
@@ -106,12 +112,14 @@ a.nav-link:hover:after {
 }
 
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  color: var(--background-brown);
 }
 
 h1, .h1 {
-    font-size: calc(2rem + 1.14vw);
+    font-size: calc(2rem + 1.03vw);
 }
+
 
 /* -----------HERO IMAGE AT TOP OF PAGE -----------*/
 

@@ -2,8 +2,8 @@
 title: "Talks"
 subtitle: |
   Slide decks from past presentations
-title-block-banner: "#C6732F"
-title-block-banner-color: "#ffffff"
+title-block-banner: "#F8EFE7"
+title-block-banner-color: "#934C12"
 format: 
   html:
     anchor-sections: false

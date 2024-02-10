@@ -3,8 +3,8 @@ title: "Reports"
 subtitle: "Government publications I helped with"
 freeze: true
 format: html
-title-block-banner: "#C6732F"
-title-block-banner-color: "#ffffff"
+title-block-banner: "#F8EFE7"
+title-block-banner-color: "#934C12"
 ---
 
 ## Publications

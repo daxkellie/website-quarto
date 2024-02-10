@@ -36,11 +36,11 @@ website:
 format:
   html:
     theme: 
-      - yeti
       - custom_theme.scss
     css: theme.css
     toc: true
     code-block-border-left: true
     highlight-style: a11y
     code-block-bg: "#F4F7F3"
-    fontsize: 1.19rem
+    fontsize: 1.15rem
+    mainfont: 'Alegreya Sans'

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -48,7 +48,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -57,6 +63,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -71,12 +78,12 @@ ul.task-list li input[type="checkbox"] {
       .quarto-title-block .quarto-title-banner h5,
       .quarto-title-block .quarto-title-banner h6
       {
-        color: #ffffff;
+        color: #934C12;
       }
 
       .quarto-title-block .quarto-title-banner {
-        color: #ffffff;
-background: #C6732F;
+        color: #934C12;
+background: #F8EFE7;
       }
 </style>
 
@@ -84,11 +91,9 @@ background: #C6732F;
 <link rel="stylesheet" href="../../theme.css">
 <meta property="og:title" content="Dax Kellie - Out of Academia (and everything’s fine)">
 <meta property="og:description" content="Transitioning from academia isn’t easy, but it’s not so bad, after all">
-<meta property="og:image" content="index_files/figure-html/unnamed-chunk-1-1.png">
-<meta property="og:site-name" content="Dax Kellie">
+<meta property="og:site_name" content="Dax Kellie">
 <meta name="twitter:title" content="Dax Kellie - Out of Academia (and everything’s fine)">
 <meta name="twitter:description" content="Transitioning from academia isn’t easy, but it’s not so bad, after all">
-<meta name="twitter:image" content="index_files/figure-html/unnamed-chunk-1-1.png">
 <meta name="twitter:creator" content="@daxkellie">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -96,10 +101,10 @@ background: #C6732F;
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="../../index.html" class="navbar-brand navbar-brand-logo">
     <img src="../../images/favicon-32x32_1.png" alt="" class="navbar-logo">
     </a>
@@ -114,43 +119,43 @@ background: #C6732F;
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../portfolio/index.html" rel="" target="">
- <span class="menu-text">Portfolio</span></a>
+    <a class="nav-link" href="../../portfolio/index.html"> 
+<span class="menu-text">Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../talks/index.html" rel="" target="">
- <span class="menu-text">Talks</span></a>
+    <a class="nav-link" href="../../talks/index.html"> 
+<span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../blog/index.html" rel="" target="">
- <span class="menu-text">Blog</span></a>
+    <a class="nav-link" href="../../blog/index.html"> 
+<span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../dataviz/index.html" rel="" target="">
- <span class="menu-text">Dataviz</span></a>
+    <a class="nav-link" href="../../dataviz/index.html"> 
+<span class="menu-text">Dataviz</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../music.html" rel="" target="">
- <span class="menu-text">Music</span></a>
+    <a class="nav-link" href="../../music.html"> 
+<span class="menu-text">Music</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/daxkellie" rel="" target=""><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/daxkellie"> <i class="bi bi-twitter" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/daxkellie" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/daxkellie"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -197,42 +202,21 @@ background: #C6732F;
 
 
 
+
 <p>“I’m out of academia.” That’s how lots of these articles start (and now mine does too!).</p>
 <p>I have read my fair share of “leaving academia” articles, many while I was finishing my PhD and feeling unsure about my future. There are more recent ones I have found worth reading, too (<a href="https://mcmullarkey.github.io/mcm-blog/posts/2021-05-18-im-opting-out/">here</a> and <a href="http://crystalprisonzone.blogspot.com/2021/05/smell-you-later.html">here</a>). There’s also lots of stuff on Twitter.</p>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="index_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></p>
-</figure>
-</div>
-</div>
-</div>
-<div class="cell" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="index_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
-</figure>
-</div>
-</div>
-</div>
-<div class="cell caption-bottom" data-layout-align="center">
-<div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="index_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid figure-img" width="672"></p>
-<figcaption class="figure-caption">A few tweets I liked. The Michele Meyer thread is worth reading. Also note that Jessie Sun stayed in academia and just got a killer Assistant Prof position woo!</figcaption>
-</figure>
-</div>
-</div>
+<p></p><div id="tweet-75809"></div><script>tweet={"url":"https:\/\/twitter.com\/michelemeyer\/status\/1382403548596559878","author_name":"Michele Meyer, PhD","author_url":"https:\/\/twitter.com\/michelemeyer","html":"\u003Cblockquote class=\"twitter-tweet\" align=\"center\"\u003E\u003Cp lang=\"en\" dir=\"ltr\"\u003EI think I&#39;m finally comfortable enough to share this publicly: I&#39;ve decided not to pursue a career in academia. \u003Cbr\u003E\u003Cbr\u003E\uD83E\uDDF5\u003C\/p\u003E&mdash; Michele Meyer, PhD (@michelemeyer) \u003Ca href=\"https:\/\/twitter.com\/michelemeyer\/status\/1382403548596559878?ref_src=twsrc%5Etfw\"\u003EApril 14, 2021\u003C\/a\u003E\u003C\/blockquote\u003E\n\u003Cscript async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"\u003E\u003C\/script\u003E\n\n","width":550,"height":null,"type":"rich","cache_age":"3153600000","provider_name":"Twitter","provider_url":"https:\/\/twitter.com","version":"1.0"};document.getElementById("tweet-75809").innerHTML = tweet["html"];</script><p></p>
+<p></p><div id="tweet-63447"></div><script>tweet={"url":"https:\/\/twitter.com\/AMLuger\/status\/1369348381630472194","author_name":"Dr. Allison M. Luger","author_url":"https:\/\/twitter.com\/AMLuger","html":"\u003Cblockquote class=\"twitter-tweet\" align=\"center\"\u003E\u003Cp lang=\"en\" dir=\"ltr\"\u003EI&#39;m not leaving academia, academia is losing me \uD83D\uDC85\u003C\/p\u003E&mdash; Dr. Allison M. Luger (@AMLuger) \u003Ca href=\"https:\/\/twitter.com\/AMLuger\/status\/1369348381630472194?ref_src=twsrc%5Etfw\"\u003EMarch 9, 2021\u003C\/a\u003E\u003C\/blockquote\u003E\n\u003Cscript async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"\u003E\u003C\/script\u003E\n\n","width":550,"height":null,"type":"rich","cache_age":"3153600000","provider_name":"Twitter","provider_url":"https:\/\/twitter.com","version":"1.0"};document.getElementById("tweet-63447").innerHTML = tweet["html"];</script><p></p>
+<p></p><div id="tweet-88436"></div><script>tweet={"url":"https:\/\/twitter.com\/JessieSunPsych\/status\/1416153275338944512","author_name":"Dr. Jessie Sun","author_url":"https:\/\/twitter.com\/JessieSunPsych","html":"\u003Cblockquote class=\"twitter-tweet\" align=\"center\"\u003E\u003Cp lang=\"en\" dir=\"ltr\"\u003EOne of the mindset shifts that has helped me the most is just realising that I can&#39;t let my happiness hinge on whether I ever land a TT job (given how many random factors are at play). As amazing as it would be, I also realise that I could be happy in many other kinds of jobs...\u003C\/p\u003E&mdash; Dr. Jessie Sun (@JessieSunPsych) \u003Ca href=\"https:\/\/twitter.com\/JessieSunPsych\/status\/1416153275338944512?ref_src=twsrc%5Etfw\"\u003EJuly 16, 2021\u003C\/a\u003E\u003C\/blockquote\u003E\n\u003Cscript async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"\u003E\u003C\/script\u003E\n\n","width":550,"height":null,"type":"rich","cache_age":"3153600000","provider_name":"Twitter","provider_url":"https:\/\/twitter.com","version":"1.0"};document.getElementById("tweet-88436").innerHTML = tweet["html"];</script><p></p>
+<div class="panel-caption">
+<p>A few tweets I liked. The Michele Meyer thread is worth reading. Also note that Jessie Sun stayed in academia and just got a killer Assistant Prof position woo!</p>
 </div>
 <p>I have noticed a few trends in “leaving academia” articles. They are usually written very soon after a person has left academia. As a result, their writings can be justifiably emotional, filled with equal parts happiness, frustration, relief and uncertainty. They also tend to mention some of the negative aspects of academia that may have pushed them away, like an incentive structure that favours speed over robustness (which is true in other industries too), a toxic environment that does little to prevent those with power from taking advantage of those without (which isn’t uncommon in other professions—have you seen any political news lately?) and a working environment that demands unsustainably long hours (again, pretty common everywhere).</p>
 <p>Unintentionally, my “leaving academia” article is different. It has been nearly 1.5 years since my last academic position, and I have passed the stage of emotional turmoil that accompanies any major career change – you know, the one that readers (like you) secretly love to read about (well u aren’t getting it sorry). There are many issues with academia, but these are true of other professions as well, and so I will try to avoid the complaints.</p>
 <p>What I am here to report after a change in career paths: everything is fine.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://media.giphy.com/media/3ohc0QqLZIyTraBWdq/giphy.gif" class="img-fluid figure-img"></p>
+<p><img src="https://media.giphy.com/media/3ohc0QqLZIyTraBWdq/giphy.gif" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <p>Leaving the academic bubble can be tough. Change is scary enough as it is. Add a fear of failure, a do-or-die motivation to earn professorship, and unending stress about your beloved research progress (and your h-index), and very soon changing career paths becomes completely overwhelming.</p>
@@ -244,8 +228,8 @@ background: #C6732F;
 <p>These thoughts aren’t cool for my brain to make me think, but it couldn’t help it (still, though, what a jerk).</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://media.giphy.com/media/d2kQseYEBMzaU/giphy.gif" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">My brain doesn’t even listen when I’m doing my best Arnie impersonation</figcaption>
+<p><img src="https://media.giphy.com/media/d2kQseYEBMzaU/giphy.gif" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<figcaption>My brain doesn’t even listen when I’m doing my best Arnie impersonation</figcaption>
 </figure>
 </div>
 <p>It also became clear how much my social media reflected my academic career interests and little else. Twitter became incredibly draining as I simultaneously identified with and felt distant from the people I had once followed so closely. I expected something like this, but not to this extent. But why was I surprised? The last few years of my life were completely wrapped up in my research topic, yet when I finally started to feel minor confidence in my research ability, I had to move on to completely unknown territory.</p>
@@ -255,8 +239,8 @@ background: #C6732F;
 <p>In fact, I think it would be beneficial for more academic researchers to bring their skill(z) and critical thinking ability to other non-academic roles. I mean, imagine if more people in higher positions were trained to make decisions using evidence-based reasoning, and consider the limitations of their conclusions when results are ambiguous. What a dream!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://media.giphy.com/media/P3hDHzKfpE22c/giphy.gif" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">I like that dream because usually my dreams are more like this</figcaption>
+<p><img src="https://media.giphy.com/media/P3hDHzKfpE22c/giphy.gif" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<figcaption>I like that dream because usually my dreams are more like this</figcaption>
 </figure>
 </div>
 <p>And that’s lesson number two: anyone in academia feeling imposter syndrome or inadequacy compared to their academic peers should realise the incredible number of other skills they can bring to a team. Sometimes it doesn’t feel that way when so much of research is about ensuring you have enough publications and grants to reach the next short-term opportunity. If anything, the research environment can be kinda…lonely. I just want to remind those lonely people: you can have a positive impact outside of research—and outside of publication metrics—if you so choose.</p>
@@ -264,16 +248,16 @@ background: #C6732F;
 <p>I am lucky. I am surrounded by others who are excited by science (and aware of its faults). Many are previous academics themselves. In this environment, although I am just a data analyst with “computer skills,” I am encouraged to pursue initiatives that support transparent and robust science. Rather than the feeling I often had in academia of personal success and failure (“I won a grant” or “I was rejected from a journal”), I now feel team success and failure (“the team reached a milestone” or “the team failed to meet a deadline”). This is a wonderfully welcome change in mindset.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://media.giphy.com/media/3rgXBrLlRs4ZlpnVDO/giphy.gif" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">A real team huddle I once had</figcaption>
+<p><img src="https://media.giphy.com/media/3rgXBrLlRs4ZlpnVDO/giphy.gif" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<figcaption>A real team huddle I once had</figcaption>
 </figure>
 </div>
 <p>I may not be doing research, but I am continuing to learn about things that I am excited to know more about with others working for a common goal. And that is my final lesson for those considering leaving academia: Even outside of the professor “dream job” you will find new opportunities that will make you excited. Will you find the job you do for the rest of your career? Who knows? But there are many careers other than research that value good science and provide moral benefit to the planet (or they try to). To make it even better, your friends from academia will still be your friends, and your work-life balance will bring happiness to many other aspects of your life.</p>
 <p>If you can believe it, there is more to life than a high h-index (or whatever other metric your university uses—my university used a metric called Boris lol). Publishing in Nature or Science doesn’t define you as a person (though it’s still very badass…and expensive). It doesn’t really matter what Reviewer 2 thinks about your paper (but srsly why do you hate me and my discussion section Reviewer 2). At the most stressful times in the academic bubble (and this is true of all jobs) it can feel easy to forget that a career is just one aspect of your life. Try not to let it take too much of a hold on you. If you feel that it is, although it may seem scary, life outside of the academic bubble can be pretty alright, too.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://media.giphy.com/media/xT8qAYITi1l7A6m5eo/giphy.gif" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">If Paul says it you know it’s true</figcaption>
+<p><img src="https://media.giphy.com/media/xT8qAYITi1l7A6m5eo/giphy.gif" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<figcaption>If Paul says it you know it’s true</figcaption>
 </figure>
 </div>
 
@@ -359,10 +343,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -372,8 +355,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -386,6 +378,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -429,6 +540,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -454,6 +566,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -517,4 +655,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+
+<script src="https://platform.twitter.com/widgets.js"></script>
 </body></html>

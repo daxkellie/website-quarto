@@ -3,8 +3,8 @@ title: "Out of Academia (and everything’s fine)"
 description: |
   Transitioning from academia isn't easy, but it's not so bad, after all
 date: "09/23/2021"
-title-block-banner: "#C6732F"
-title-block-banner-color: "#ffffff"
+title-block-banner: "#F8EFE7"
+title-block-banner-color: "#934C12"
 categories: 
   - academia
 freeze: true
@@ -15,23 +15,15 @@ format: html
 
 I have read my fair share of “leaving academia” articles, many while I was finishing my PhD and feeling unsure about my future. There are more recent ones I have found worth reading, too ([here](https://mcmullarkey.github.io/mcm-blog/posts/2021-05-18-im-opting-out/) and [here](http://crystalprisonzone.blogspot.com/2021/05/smell-you-later.html)). There's also lots of stuff on Twitter.
 
-```{r, echo = FALSE}
-#| fig-align: "center"
-library(tweetrmd)
-tweet_screenshot(tweet_url("michelemeyer", "1382403548596559878?s=09"))
-```
+{{< tweet michelemeyer 1382403548596559878?s=09 >}}
 
-```{r, echo = FALSE}
-#| fig-align: "center"
-tweet_screenshot(tweet_url("AMLuger", "1369348381630472194?s=20"))
-```
+{{< tweet AMLuger 1369348381630472194?s=20 >}}
 
-```{r, echo = FALSE, fig.cap = "A few tweets I liked. The Michele Meyer thread is worth reading. Also note that Jessie Sun stayed in academia and just got a killer Assistant Prof position woo!"}
-#| cap-location: bottom
-#| fig-align: "center"
-tweet_screenshot(tweet_url("JessieSunPsych", "1416153275338944512?s=09"))
-```
+{{< tweet JessieSunPsych 1416153275338944512?s=09 >}}
 
+:::{.panel-caption}
+A few tweets I liked. The Michele Meyer thread is worth reading. Also note that Jessie Sun stayed in academia and just got a killer Assistant Prof position woo!
+:::
 
 I have noticed a few trends in “leaving academia” articles. They are usually written very soon after a person has left academia. As a result, their writings can be justifiably emotional, filled with equal parts happiness, frustration, relief and uncertainty. They also tend to mention some of the negative aspects of academia that may have pushed them away, like an incentive structure that favours speed over robustness (which is true in other industries too), a toxic environment that does little to prevent those with power from taking advantage of those without (which isn’t uncommon in other professions—have you seen any political news lately?) and a working environment that demands unsustainably long hours (again, pretty common everywhere).
 
