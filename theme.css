@@ -247,13 +247,23 @@ a {
 
 /* Add some shadows to create a card effect */
 .talk-card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   padding-bottom: 20px;
+  border-radius: 13px 13px;
+    position: relative;
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: white;
+    background-clip: border-box;
 }
 
 /* Some left and right padding inside the container */
 .container {
-  padding: 0 16px;
+  padding: 10px 10px!important;
 }
 
 /* Clear floats */
@@ -267,9 +277,13 @@ a {
   opacity: 1;
   display: block;
   width: 100%;
-  height: auto;
+  height: 100%;
+  max-height: 170px;
   transition: .5s ease;
   backface-visibility: hidden;
+  object-fit: cover;
+  object-position: 50% 20%;
+  border-radius: 13px 13px 0 0 
 }
 
 .talk-image-text {
@@ -284,11 +298,12 @@ a {
 
 .talk-title {
   color: var(--background-green) !important;
-  font-size: 1.2rem;
-  line-height: 1.1;
+  font-size: 0.95rem;
+  line-height: 1;
   text-decoration: none !important;
   margin-top: 20px;
   margin-bottom: 20px;
+  padding-top: 15px;
 }
 
 .talk-title:hover {
@@ -297,8 +312,8 @@ a {
 }
 
 .talk-info {
-  color: #222322;
-  font-size: .9rem;
+  color: #a1a1a1;
+  font-size: .8rem;
   margin-bottom:5px;
   line-height: 1;
 }

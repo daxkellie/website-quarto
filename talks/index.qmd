@@ -1,83 +1,22 @@
 ---
 title: "Talks"
 subtitle: |
-  Slide decks from past presentations
+  Slide decks & recordings from past presentations
 title-block-banner: "#F8EFE7"
 title-block-banner-color: "#934C12"
-format: 
+format:
   html:
+    toc: false
     anchor-sections: false
     preview-links: true
+search: false
+execute:
+  echo: false
+listing:
+  - id: talks
+    template: talks.ejs
+    contents: talks.yml
 ---
 
-```{r}
-#| include: false
-source("../R/functions.R")
-library(htmltools)
-```
-
-
-::: {.column-page}
-
-```{r}
-#| echo: false
-tags$div(class = "row",# Create a row for 3 team-member cards
-         
-create_talk_card(
-  talk_link = "https://daxkellie.quarto.pub/how-to-make-a-shareable-code-workflow-for-reproducible-and-efficient-science/?utm_campaign=related_content&utm_source=ECOEVO&utm_medium=communities#/title-slide",
-  img_src = "esa2023/slide-bg.png",
-  title = "How to make a shareable code workflow for reproducible and efficient science",
-  talk_info = "Talk at ESA 2023, Darwin",
-  slides = TRUE,
-  slides_link = "https://daxkellie.quarto.pub/how-to-make-a-shareable-code-workflow-for-reproducible-and-efficient-science/?utm_campaign=related_content&utm_source=ECOEVO&utm_medium=communities#/title-slide",
-  repo = TRUE,
-  repo_link = "https://github.com/daxkellie/esa2023",
-  blog = TRUE,
-  blog_link = "https://ecoevocommunity.nature.com/posts/improving-code-reproducibility-small-steps-with-big-impacts"
-),
-
-create_talk_card(
-  talk_link = "https://daxkellie.quarto.pub/esa2022-galah/#/title-slide",
-  img_src = "esa2022/slide-bg.png",
-  title = "Exploring biodiversity data is tidier than ever with {galah}",
-  talk_info = "Talk at ESA 2022, Wollongong (5 min talk)",
-  slides = TRUE,
-  slides_link = "https://daxkellie.quarto.pub/esa2022-galah/#/title-slide",
-  repo = TRUE,
-  repo_link = "https://github.com/daxkellie/esa2022",
-  poster = TRUE,
-  poster_link = "https://github.com/daxkellie/esa2022/blob/main/poster/poster_esa2022_dk.pdf"
-),
-
-create_talk_card(
-  talk_link = "https://daxkellie.github.io/useR2022/#/title-slide",
-  img_src = "user2022/slide-bg.png",
-  title = "Exploring biodiversity data is tidier than ever",
-  talk_info = "Talk at useR Conference 2022 (15 min talk)",
-  slides = TRUE,
-  slides_link = "https://daxkellie.github.io/useR2022/#/title-slide",
-  repo = TRUE,
-  repo_link = "https://github.com/daxkellie/useR2022"
-)
-)
-```
-
-```{r}
-#| echo: false
-tags$div(class = "row",# Create a row for 3 team-member cards
-         
-create_talk_card(
-  talk_link = "https://www.youtube.com/watch?v=2f6GijzMCSU",
-  img_src = "unsw3mt2018/slide-bg.png",
-  title = "First impression or suppression?",
-  talk_info = "Talk at UNSW 3 Minute Thesis Competition, 2018",
-  slides = TRUE,
-  slides_link = "https://github.com/daxkellie/website-quarto/blob/main/talks/unsw3mt2018/3MT-slide.pdf",
-  recording = TRUE,
-  recording_link = "https://www.youtube.com/watch?v=2f6GijzMCSU"
-)
-)
-```
-
-
+::: {#talks .column-page}
 :::

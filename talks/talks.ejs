@@ -1,0 +1,57 @@
+
+```{=html}
+
+<% for (const item of items) { %>
+
+<div class="list grid" style="column-gap: 13px;">
+
+<% for (const tile of item.tiles) { %>
+  <div class="talk-card g-col-12 g-col-sm-6 g-col-md-4" <%= metadataAttrs(tile) %>>
+
+    <a href="<%- tile.href %>">
+      <img src="<%- tile.thumbnail %>" alt="<%- tile.description %>" class="talk-image"/>
+    </a>
+    <div class="container">
+      <small class="card-text inline-block">
+        <a href="<%- tile.href %>" class="talk-title"><%= tile.title %></a>
+        <br>
+        <span class="talk-info"><%= tile.subtitle %></span>
+      </small>
+    </div>
+    <div class="talk-button-column">
+      <% if (tile.slides) { %>
+      <a href="<%- tile.slides %>">
+        <span class="talk-button">slides</span>
+      </a>
+      <% } %>
+      <% if (tile.repo) { %>
+      <a href="<%- tile.repo %>">
+        <span class="talk-button" title="GitHub Repository"><icon class="bi bi-github"></icon></span>
+      </a>
+      <% } %>
+      <% if (tile.recording) { %>
+      <a href="<%- tile.recording %>">
+        <span class="talk-button">recording</span>
+      </a>
+      <% } %>
+      <% if (tile.blog) { %>
+      <a href="<%- tile.blog %>">
+        <span class="talk-button"><i class="fa-solid fa-blog"></i>blog</span>
+      </a>
+      <% } %>
+      <% if (tile.poster) { %>
+      <a href="<%- tile.poster %>">
+        <span class="talk-button">poster</span>
+      </a>
+      <% } %>
+    </div>
+
+
+  </div>
+<% } %>
+
+</div>
+
+<% } %>
+
+```

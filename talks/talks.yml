@@ -1,0 +1,39 @@
+
+- tiles:
+    - title: "How open & transparent science facilitates research reuse, not waste"
+      subtitle: National Science Week, 2023
+      href: https://youtu.be/Dp_jF8Zxyxc?t=2220
+      thumbnail: images/reuse-2023.png
+      recording: https://youtu.be/Dp_jF8Zxyxc?t=2220
+    - title: "galah 101: Beginner's guide"
+      subtitle: National Science Week, 2023
+      href: https://www.youtube.com/watch?v=8YY63sqKfEM
+      thumbnail: images/galah-101_1.png
+      slides: https://acbuyan.quarto.pub/galah-101-beginners-guide/
+      recording: https://www.youtube.com/watch?v=8YY63sqKfEM
+    - title: How to make a shareable code workflow for reproducible and efficient science
+      subtitle: ESA 2023, Darwin
+      href: https://daxkellie.quarto.pub/how-to-make-a-shareable-code-workflow-for-reproducible-and-efficient-science/
+      thumbnail: images/esa-2023.png
+      slides: https://daxkellie.quarto.pub/how-to-make-a-shareable-code-workflow-for-reproducible-and-efficient-science/
+      repo: https://github.com/daxkellie/esa2023
+      blog: https://ecoevocommunity.nature.com/posts/improving-code-reproducibility-small-steps-with-big-impacts
+    - title: Exploring biodiversity data is tidier than ever with {galah}
+      subtitle: ESA 2022, Wollongong
+      href: https://daxkellie.quarto.pub/esa2022-galah/#/title-slide
+      thumbnail: images/esa-2022.png
+      slides: https://daxkellie.quarto.pub/esa2022-galah/#/title-slide
+      repo: https://github.com/daxkellie/esa2022
+      blog: https://github.com/daxkellie/esa2022/blob/main/poster/poster_esa2022_dk.pdf
+    - title: Exploring biodiversity data is tidier than ever
+      subtitle: useR 2022
+      href: https://daxkellie.github.io/useR2022/#/title-slide
+      thumbnail: images/useR-2022.png
+      slides: https://daxkellie.github.io/useR2022/#/title-slide
+      repo: https://github.com/daxkellie/useR2022
+    - title: First impression or suppression?
+      subtitle: UNSW 3-Minute-Thesis, 2018
+      href: https://www.youtube.com/watch?v=2f6GijzMCSU
+      thumbnail: images/unsw-3mt.png
+      slides: https://github.com/daxkellie/website-quarto/blob/main/talks/unsw3mt2018/3MT-slide.pdf
+      recording: https://www.youtube.com/watch?v=2f6GijzMCSU

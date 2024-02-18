@@ -13,5 +13,13 @@
   {
     "listing": "/dataviz/index.html",
     "items": []
+  },
+  {
+    "listing": "/talks/text-talks.html",
+    "items": []
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": []
   }
 ]

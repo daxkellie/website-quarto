@@ -1,7 +1,0 @@
----
-title: "ESA 2023"
----
-
-```{=html}
-<iframe width="780" height="500" src="https://daxkellie.quarto.pub/how-to-make-a-shareable-code-workflow-for-reproducible-and-efficient-science/#/title-slide" title="Slides"></iframe>
-```
