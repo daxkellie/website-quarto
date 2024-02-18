@@ -1,0 +1,40 @@
+---
+title: "Publications"
+subtitle: "Scientific publications, reports and other articles"
+freeze: true
+format: html
+title-block-banner: "#F8EFE7"
+title-block-banner-color: "#934C12"
+---
+
+## Scientific publications
+
+Roger, E., **Kellie, D. J.**, Slatyer, C., Brenton, P., Torresan, O., Wallis, E., Zerger, A. (2023). [Open Access Research Infrastructures are Critical for Improving the Accessibility and Utility of Citizen Science: A Case Study of Australia’s National Biodiversity Infrastructure, the Atlas of Living Australia (ALA)](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.564?utm_source=nationaltribune&utm_medium=nationaltribune&utm_campaign=news). *Citizen Science: Theory and Practice*, *8*(1). \  
+[Preprint on EcoEvoRxiv](https://ecoevorxiv.org/repository/view/3650/)
+
+**Kellie, D. J.,** Blake, K. R., & Brooks, R. C. (2021). [Prejudice towards sex workers depends on the sexual activity and autonomy of their work, hobbies and daily activities](https://doi.org/10.1525/collabra.24386). *Collabra: Psychology*, *7*(1), 24386. https://doi.org/10.1525/collabra.24386 \  
+*This paper is open access!* \  
+[Preprint on PsyArXiv](https://doi.org/10.31234/osf.io/zu8q5)
+
+**Kellie, D. J.**, Blake, K. R., & Brooks, R. C. (2021). [Behind the makeup: The effects of cosmetics on women's self‐objectification, and their objectification by others](https://doi.org/10.1002/ejsp.2767). *European Journal of Social Psychology*. https://doi.org/10.1002/ejsp.2767 \  
+[Prepint on PsyArXiv](https://psyarxiv.com/6uy7z)
+
+**Kellie, D. J.**, Dixson, B., & Brooks, R. (2020). [Papa don’t preach? Using lies to expose the truth about who suppresses female sexuality](https://doi.org/10.1007/s12110-020-09372-7). *Human Nature*, 1-27. https://doi.org/10.1007/s12110-020-09372-7 
+
+**Kellie, D. J.**, Blake, K. R., & Brooks, R. (2019). [What drives female objectification? An investigation of appearance-based interpersonal perceptions and the objectification of women](https://doi.org/10.1371/journal.pone.022138830). *PLoS One*, *14*(8), e0221388. https://doi.org/10.1371/journal.pone.022138830 \  
+[3 Minute Thesis talk I did on this paper](https://www.youtube.com/watch?v=2f6GijzMCSU)
+
+
+### Reports
+
+Australian Institute of Health and Welfare (2022) [Investigating enhancements of Indigenous data in
+suicide-relevant data sets](https://www.indigenousmhspc.gov.au/getattachment/9f5410e0-a297-4437-86f5-878029c359ef/investigating-enhancements-of-indigenous-data-in-suicide-relevant-data-sets.pdf?v=1259). Catalogue number IMH 13, AIHW, Australian Government. \  
+
+Australian Institute of Health and Welfare (2022) [Protective and risk factors for suicide among
+Indigenous Australians](https://www.indigenousmhspc.gov.au/getattachment/2a25cdd8-d8a7-4373-938f-2aa51a0b4128/aihw-2022-protective-and-risk-factors.pdf?v=1260). Catalogue number IMH 11, AIHW, Australian Government. \  
+
+### Preprints
+
+**Kellie, D. J.**, Parker, T., & Nakagawa, S. (in prep). To what extent do biological and methodological differences drive heterogeneity in results in ecology? \ 
+*Pre-registration available on the* [Open Science Framework](https://osf.io/n36sx/?view_only=39ab7cd386ba49b0b723fd09fefe3b5d)
+

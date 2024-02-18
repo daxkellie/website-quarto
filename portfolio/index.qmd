@@ -49,10 +49,10 @@ create_portfolio_card(
 tags$div(class = "row",# Create a row for 3 team-member cards
          
 create_portfolio_card(
-  title = "Research",
+  title = "Publications",
   image = "images/fig3b_hexmap_frog.png",
-  url = "research/index.html",
-  description = "Scientific publications and other academic research."
+  url = "publications/index.html",
+  description = "Scientific publications, government reports and other articles."
 ),
 create_portfolio_card(
   title = "Tutorials",
@@ -65,19 +65,6 @@ create_portfolio_card(
   image = "images/new_leaf.png",
   url = "art/index.html",
   description = "I dabble."
-)
-)
-```
-
-```{r}
-#| echo: false
-tags$div(class = "row",# Create a row for 3 team-member cards
-         
-create_portfolio_card(
-  title = "Reports",
-  image = "images/indigenous-art.png",
-  url = "reports/index.html",
-  description = "Government publications I played a part in."
 )
 )
 ```
