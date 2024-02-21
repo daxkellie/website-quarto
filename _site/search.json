@@ -39,7 +39,7 @@
     "href": "portfolio/dataviz/index.html",
     "title": "Dataviz",
     "section": "",
-    "text": "Dataviz\n  Made in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Dataviz\n  Made in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "portfolio/dataviz/frogs_top5/index.html",
@@ -137,7 +137,7 @@
     "href": "portfolio/dataviz/map_aus_lines/index.html",
     "title": "Australia",
     "section": "",
-    "text": "Code"
+    "text": "30DayMapChallenge\n\n\n\n\n\nCode"
   },
   {
     "objectID": "portfolio/dataviz/map_seasonal-records/index.html",
@@ -151,14 +151,14 @@
     "href": "portfolio/dataviz/ski-resorts/index.html",
     "title": "USA Ski Resorts",
     "section": "",
-    "text": "Code"
+    "text": "30DayMapChallenge\n\n\n\n\n\nCode"
   },
   {
     "objectID": "portfolio/index.html",
     "href": "portfolio/index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "ALA Labs\nAtlas of Living Australia's website for coding solutions to scientific problems.\n\n\n\n\n\n\n\n\n\ngalah\nThe galah package uses tidy syntax to download biodiversity data from GBIF, ALA and other Living Atlases.\n\n\n\n\n\n\n\n\n\nImproving code reproducibility: Small steps with big impacts\nBlog post for Nature Ecology & Evolution Community | July 2023\n\n\n\n\n\n\n\n\n\nPublications\nScientific publications, government reports and other articles.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDataviz\nVisualisations made in R.\n\n\n\n\n\n\n\n\n\nTutorials\nArticles to teach R & Python\n\n\n\n\n\n\n\n\n\nArt\nI dabble."
+    "text": "ALA Labs\nAtlas of Living Australia's website for coding solutions to scientific problems.\n\n\n\n\n\n\n\n\n\nImproving code reproducibility: Small steps with big impacts\nBlog post for Nature Ecology & Evolution Community | July 2023\n\n\n\n\n\n\n\n\n\nDataviz\nVisualisations made in R.\n\n\n\n\n\n\n\n\n\ngalah\nThe galah package uses tidy syntax to download biodiversity data from GBIF, ALA and other Living Atlases.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\nScientific publications, government reports and other articles.\n\n\n\n\n\n\n\n\n\nTutorials\nArticles to teach R & Python\n\n\n\n\n\n\n\n\n\nArt\nI dabble."
   },
   {
     "objectID": "portfolio/tutorials/index.html",
@@ -166,5 +166,26 @@
     "title": "Tutorials",
     "section": "",
     "text": "Beginner’s guide: Make a quick map of species observations in Python and R}\nPost for ALA Labs\nDecember 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlternatives to box plots: Using beeswarm and raincloud plots to summarise ecological data}\nPost for ALA Labs\nAugust 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantify geographic sampling bias with {sampbias}\nPost for ALA Labs\nAugust 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownload plant species data by hexagon to make a 3D hex map\nPost for ALA Labs\nMay 2022"
+  },
+  {
+    "objectID": "portfolio/dataviz/cambodia/index.html",
+    "href": "portfolio/dataviz/cambodia/index.html",
+    "title": "Cambodia",
+    "section": "",
+    "text": "30DayMapChallenge\n\n\n\n\n\nCode"
+  },
+  {
+    "objectID": "portfolio/dataviz/emus/index.html",
+    "href": "portfolio/dataviz/emus/index.html",
+    "title": "Emus",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "portfolio/dataviz/bertin-map/index.html",
+    "href": "portfolio/dataviz/bertin-map/index.html",
+    "title": "Bertin (dot) map",
+    "section": "",
+    "text": "30DayMapChallenge"
   }
 ]

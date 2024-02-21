@@ -5,6 +5,9 @@ listing:
     - title: Dataviz
       byline: "Made in R"
       visuals:
+        - name: Cambodia
+          img: cambodia/cambodia.png
+          href: cambodia/index.html  
         - name: Ski resorts
           img: ski-resorts/usa_ski-resorts.png
           href: ski-resorts/index.html

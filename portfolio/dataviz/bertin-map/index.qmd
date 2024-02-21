@@ -1,0 +1,19 @@
+---
+title: "Bertin (dot) map"
+subtitle: "Species observations in 2023, Atlas of Living Australia"
+date: "11/11/2023"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+
+![](aus_2023_observations.png)
+
+:::{.column-margin}
+
+[30DayMapChallenge](https://github.com/daxkellie/30DayMapChallenge2023)
+
+:::
+

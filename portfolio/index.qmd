@@ -30,22 +30,22 @@ create_portfolio_card(
   description = "Atlas of Living Australia's website for coding solutions to scientific problems."
 ),
 create_portfolio_card(
-  title = "galah",
-  image = "images/galah_logo.png",
-  url = "https://galah.ala.org.au/",
-  description = "The galah package uses tidy syntax to download biodiversity data from GBIF, ALA and other Living Atlases."
-),
-create_portfolio_card(
   title = "Improving code reproducibility: Small steps with big impacts",
   image = "images/nature-blog.avif",
   url = "https://ecoevocommunity.nature.com/posts/improving-code-reproducibility-small-steps-with-big-impacts",
   description = "Blog post for Nature Ecology & Evolution Community | July 2023"
 ),
 create_portfolio_card(
-  title = "Publications",
-  image = "images/fig3b_hexmap_frog.png",
-  url = "publications/index.html",
-  description = "Scientific publications, government reports and other articles."
+  title = "Dataviz",
+  image = "images/bats.png",
+  url = "dataviz/index.html",
+  description = "Visualisations made in R."
+),
+create_portfolio_card(
+  title = "galah",
+  image = "images/galah_logo.png",
+  url = "https://galah.ala.org.au/",
+  description = "The galah package uses tidy syntax to download biodiversity data from GBIF, ALA and other Living Atlases."
 )
 )
 ```
@@ -55,10 +55,10 @@ create_portfolio_card(
 tags$div(class = "row",# Create a row for 3 team-member cards
 
 create_portfolio_card(
-  title = "Dataviz",
-  image = "images/bats.png",
-  url = "dataviz/index.html",
-  description = "Visualisations made in R."
+  title = "Publications",
+  image = "images/fig3b_hexmap_frog.png",
+  url = "publications/index.html",
+  description = "Scientific publications, government reports and other articles."
 ),
 create_portfolio_card(
   title = "Tutorials",

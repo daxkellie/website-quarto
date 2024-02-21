@@ -1,6 +1,6 @@
 ---
 title: "Australia"
-subtitle: "Lines / Bad map for #30DayMapChallenge"
+subtitle: "Lines / Bad map for [#30DayMapChallenge](https://github.com/daxkellie/30DayMapChallenge2023)"
 date: "04/21/2023"
 format: html
 filters:
@@ -10,6 +10,7 @@ lightbox: auto
 
 
 ![](aus_lines.png)
+[30DayMapChallenge](https://github.com/daxkellie/30DayMapChallenge2023)
 
 :::{.column-margin}
 
