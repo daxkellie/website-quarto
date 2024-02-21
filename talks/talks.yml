@@ -24,7 +24,7 @@
       thumbnail: images/esa-2022.png
       slides: https://daxkellie.quarto.pub/esa2022-galah/#/title-slide
       repo: https://github.com/daxkellie/esa2022
-      blog: https://github.com/daxkellie/esa2022/blob/main/poster/poster_esa2022_dk.pdf
+      poster: https://github.com/daxkellie/esa2022/blob/main/poster/poster_esa2022_dk.pdf
     - title: Exploring biodiversity data is tidier than ever
       subtitle: useR 2022
       href: https://daxkellie.github.io/useR2022/#/title-slide
