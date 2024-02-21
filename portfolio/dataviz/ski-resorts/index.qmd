@@ -1,0 +1,19 @@
+---
+title: "USA Ski Resorts"
+subtitle: "North America for #30DayMapChallenge"
+date: "11/11/2023"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+
+![](usa_ski-resorts.png)
+
+:::{.column-margin}
+
+[Code](https://github.com/daxkellie/30DayMapChallenge2023/blob/main/scripts/usa_ski-resorts.R)
+
+:::
+

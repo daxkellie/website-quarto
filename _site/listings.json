@@ -1,6 +1,10 @@
 [
   {
-    "listing": "/portfolio/art/index.html",
+    "listing": "/talks/index.html",
+    "items": []
+  },
+  {
+    "listing": "/portfolio/dataviz/index.html",
     "items": []
   },
   {
@@ -11,15 +15,7 @@
     ]
   },
   {
-    "listing": "/dataviz/index.html",
-    "items": []
-  },
-  {
-    "listing": "/talks/text-talks.html",
-    "items": []
-  },
-  {
-    "listing": "/talks/index.html",
+    "listing": "/portfolio/art/index.html",
     "items": []
   }
 ]

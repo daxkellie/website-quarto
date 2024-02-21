@@ -22,8 +22,6 @@ website:
         text: Talks
       - href: blog/index.qmd
         text: Blog
-      - href: dataviz/index.qmd
-        text: Dataviz
       - href: music.qmd
         text: Music
       - href: https://twitter.com/daxkellie

@@ -129,7 +129,7 @@ a {
 /*-- Index page  */
 .hero-image {
     position: relative;
-    margin-bottom: 1em;
+    margin-bottom: 1.7em;
     margin-top:-3em;
     /* liner gradient tints the image darker for readability*/
     background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(images/dax_talk.jpg);
@@ -380,7 +380,7 @@ a {
 /* two columns side by side */
 .card-column-portfolio {
   float: left;
-  width: 33%;
+  width: 25%;
   margin-bottom: 16px;
   padding: 0 12px;
   flex-direction: row;
@@ -419,7 +419,7 @@ a {
 .portfolio-image {
   opacity: 1;
   display: block;
-  height: 300px;
+  height: 250px;
   width: auto;
   object-fit: cover;
   transition: .5s ease;
