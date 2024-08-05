@@ -158,7 +158,7 @@
     "href": "portfolio/index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "ALA Labs\nAtlas of Living Australia's website for coding solutions to scientific problems.\n\n\n\n\n\n\n\n\n\nImproving code reproducibility: Small steps with big impacts\nBlog post for Nature Ecology & Evolution Community | July 2023\n\n\n\n\n\n\n\n\n\nDataviz\nVisualisations made in R.\n\n\n\n\n\n\n\n\n\ngalah\nThe galah package uses tidy syntax to download biodiversity data from GBIF, ALA and other Living Atlases.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\nScientific publications, government reports and other articles.\n\n\n\n\n\n\n\n\n\nTutorials\nArticles to teach R & Python\n\n\n\n\n\n\n\n\n\nArt\nI dabble."
+    "text": "ALA Labs\nAtlas of Living Australia's website for coding solutions to scientific problems.\n\n\n\n\n\n\n\n\n\nImproving code reproducibility: Small steps with big impacts\nBlog post for Nature Ecology & Evolution Community | July 2023\n\n\n\n\n\n\n\n\n\nDataviz\nVisualisations made in R.\n\n\n\n\n\n\n\n\n\nPackages\nR packages for data science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\nScientific publications, government reports and other articles.\n\n\n\n\n\n\n\n\n\nTutorials\nArticles to teach R & Python\n\n\n\n\n\n\n\n\n\nArt\nI dabble."
   },
   {
     "objectID": "portfolio/tutorials/index.html",
@@ -191,8 +191,8 @@
   {
     "objectID": "portfolio/packages/index.html",
     "href": "portfolio/packages/index.html",
-    "title": "Tutorials",
+    "title": "Packages",
     "section": "",
-    "text": "Show seasonal species trends using a ridgeline plot\nPost for ALA Labs\nMay 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to species distribution modelling using {tidysdm} & {tidymodels}\nPost for ALA Labs\nApril 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownload a species list and cross-reference with conservation status lists\nPost for ALA Labs\nFebruary 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeginner’s guide: Make a quick map of species observations in Python and R\nPost for ALA Labs\nDecember 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlternatives to box plots: Using beeswarm and raincloud plots to summarise ecological data}\nPost for ALA Labs\nAugust 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantify geographic sampling bias with {sampbias}\nPost for ALA Labs\nAugust 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownload plant species data by hexagon to make a 3D hex map\nPost for ALA Labs\nMay 2022"
+    "text": "::: {.column-body-outset}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngalah\nThe galah package uses tidy syntax to download biodiversity data from GBIF, the ALA, and other Living Atlases."
   }
 ]

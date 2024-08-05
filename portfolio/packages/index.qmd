@@ -1,0 +1,35 @@
+---
+title: "Packages"
+subtitle: "R packages for data science"
+title-block-banner: "#F8EFE7"
+title-block-banner-color: "#934C12"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, include=FALSE}
+library(htmltools)
+source("../../R/functions.R")
+```
+
+
+::: {.column-body-outset}
+
+::: {layout-ncol="2"}
+::: {.centre-it style="margin-top:auto; margin-bottom:auto;"}
+```{r}
+create_proj_card(
+  img_src = "../images/galah_logo.png",
+  url = "https://galah.ala.org.au/R/",
+  title = "galah"
+)
+```
+:::
+
+[**galah**](https://galah.ala.org.au/R/) \
+The galah package uses tidy syntax to download biodiversity data from GBIF, the ALA, and other Living Atlases.
+:::
+
+

@@ -42,10 +42,10 @@ create_portfolio_card(
   description = "Visualisations made in R."
 ),
 create_portfolio_card(
-  title = "galah",
+  title = "Packages",
   image = "images/galah_logo.png",
-  url = "https://galah.ala.org.au/",
-  description = "The galah package uses tidy syntax to download biodiversity data from GBIF, ALA and other Living Atlases."
+  url = "packages/index.html",
+  description = "R packages for data science."
 )
 )
 ```
