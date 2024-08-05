@@ -116,7 +116,7 @@
     "href": "portfolio/art/index.html",
     "title": "Art",
     "section": "",
-    "text": "Art\n  Made by me\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Art\n  Made by me\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "portfolio/dataviz/ebird/index.html",
@@ -158,7 +158,7 @@
     "href": "portfolio/index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "ALA Labs\nAtlas of Living Australia's website for coding solutions to scientific problems.\n\n\n\n\n\n\n\n\n\nImproving code reproducibility: Small steps with big impacts\nBlog post for Nature Ecology & Evolution Community | July 2023\n\n\n\n\n\n\n\n\n\nDataviz\nVisualisations made in R.\n\n\n\n\n\n\n\n\n\nPackages\nR packages for data science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublications\nScientific publications, government reports and other articles.\n\n\n\n\n\n\n\n\n\nTutorials\nArticles to teach R & Python\n\n\n\n\n\n\n\n\n\nArt\nI dabble."
+    "text": "ALA Labs\nAtlas of Living Australia's website for coding solutions to scientific problems.\n\n\n\n\n\n\n\n\n\nImproving code reproducibility: Small steps with big impacts\nBlog post for Nature Ecology & Evolution Community | July 2023\n\n\n\n\n\n\n\n\n\nDataviz\nVisualisations made in R.\n\n\n\n\n\n\n\n\n\nPackages\nR packages for data science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBooks\nLong-form resources for data wrangling & analysis.\n\n\n\n\n\n\n\n\n\nPublications\nScientific publications, government reports and other articles.\n\n\n\n\n\n\n\n\n\nTutorials\nArticles to teach R & Python\n\n\n\n\n\n\n\n\n\nArt\nI dabble."
   },
   {
     "objectID": "portfolio/tutorials/index.html",
@@ -193,6 +193,13 @@
     "href": "portfolio/packages/index.html",
     "title": "Packages",
     "section": "",
-    "text": "::: {.column-body-outset}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngalah\nThe galah package uses tidy syntax to download biodiversity data from GBIF, the ALA, and other Living Atlases."
+    "text": "galah\nThe galah package uses tidy syntax to download biodiversity data from GBIF, the ALA, and other Living Atlases."
+  },
+  {
+    "objectID": "portfolio/books/index.html",
+    "href": "portfolio/books/index.html",
+    "title": "Books",
+    "section": "",
+    "text": "Cleaning Biodiversity Data in R\nData cleaning is hard, but it’s a process that anyone who works with data must engage with if they want use their data to answer questions about the world. Cleaning Biodiversity Data in R is a practical guide to cleaning geo-referenced biodiversity data using R. It is a targeted resource for anyone working with or interested in answering questions using data in ecology and evolution."
   }
 ]

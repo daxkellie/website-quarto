@@ -32,4 +32,4 @@ create_proj_card(
 The galah package uses tidy syntax to download biodiversity data from GBIF, the ALA, and other Living Atlases.
 :::
 
-
+:::

@@ -6,6 +6,12 @@ listing:
       byline: |
         Made by me
       visuals:
+        - name: Cleaner shrimp
+          img: ../images/cleaner-shrimp_cover.png
+        - name: Bird
+          img: ../images/bird-o.png
+        - name: Cat & fish
+          img: ../images/yarn.png
         - name: ALA hex 2023
           img: ../images/ala-hex.jpeg
         - name: Platypus

@@ -55,6 +55,12 @@ create_portfolio_card(
 tags$div(class = "row",# Create a row for 3 team-member cards
 
 create_portfolio_card(
+  title = "Books",
+  image = "images/cleaner-shrimp_cover.png",
+  url = "books/index.html",
+  description = "Long-form resources for data wrangling & analysis."
+),
+create_portfolio_card(
   title = "Publications",
   image = "images/fig3b_hexmap_frog.png",
   url = "publications/index.html",
