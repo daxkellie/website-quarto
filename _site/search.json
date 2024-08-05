@@ -165,7 +165,7 @@
     "href": "portfolio/tutorials/index.html",
     "title": "Tutorials",
     "section": "",
-    "text": "Beginner’s guide: Make a quick map of species observations in Python and R}\nPost for ALA Labs\nDecember 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlternatives to box plots: Using beeswarm and raincloud plots to summarise ecological data}\nPost for ALA Labs\nAugust 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantify geographic sampling bias with {sampbias}\nPost for ALA Labs\nAugust 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownload plant species data by hexagon to make a 3D hex map\nPost for ALA Labs\nMay 2022"
+    "text": "Show seasonal species trends using a ridgeline plot\nPost for ALA Labs\nMay 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to species distribution modelling using {tidysdm} & {tidymodels}\nPost for ALA Labs\nApril 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownload a species list and cross-reference with conservation status lists\nPost for ALA Labs\nFebruary 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeginner’s guide: Make a quick map of species observations in Python and R\nPost for ALA Labs\nDecember 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlternatives to box plots: Using beeswarm and raincloud plots to summarise ecological data}\nPost for ALA Labs\nAugust 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantify geographic sampling bias with {sampbias}\nPost for ALA Labs\nAugust 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownload plant species data by hexagon to make a 3D hex map\nPost for ALA Labs\nMay 2022"
   },
   {
     "objectID": "portfolio/dataviz/cambodia/index.html",
@@ -187,5 +187,12 @@
     "title": "Bertin (dot) map",
     "section": "",
     "text": "30DayMapChallenge"
+  },
+  {
+    "objectID": "portfolio/packages/index.html",
+    "href": "portfolio/packages/index.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "Show seasonal species trends using a ridgeline plot\nPost for ALA Labs\nMay 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to species distribution modelling using {tidysdm} & {tidymodels}\nPost for ALA Labs\nApril 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownload a species list and cross-reference with conservation status lists\nPost for ALA Labs\nFebruary 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeginner’s guide: Make a quick map of species observations in Python and R\nPost for ALA Labs\nDecember 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlternatives to box plots: Using beeswarm and raincloud plots to summarise ecological data}\nPost for ALA Labs\nAugust 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuantify geographic sampling bias with {sampbias}\nPost for ALA Labs\nAugust 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownload plant species data by hexagon to make a 3D hex map\nPost for ALA Labs\nMay 2022"
   }
 ]

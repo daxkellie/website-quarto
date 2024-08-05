@@ -1,9 +1,6 @@
 ---
 title: "Tutorials"
 subtitle: "Learn to do some new stuff"
-format: 
-  html: 
-    css: theme.css
 title-block-banner: "#F8EFE7"
 title-block-banner-color: "#934C12"
 ---
@@ -20,72 +17,115 @@ source("../../R/functions.R")
 
 ::: {.column-body-outset}
 
-::: {.grid}
+::: {layout="[[30,70]]"}
+::: {.centre-it style="margin-top:auto; margin-bottom:auto;"}
+```{r}
+create_writings_image(
+  img_src = "../images/ridgeline-plot.png",
+  url = "https://labs.ala.org.au/posts/2024-05-10_ridgeline-plots/"
+)
+```
+:::
 
-::: {.g-col-4}
+[**Show seasonal species trends using a ridgeline plot**](https://labs.ala.org.au/posts/2024-05-10_ridgeline-plots/) \
+Post for ALA Labs \
+[*May 2024*]{style="font-size:.8rem"}
+:::
 
+
+::: {layout="[[30,70]]"}
+::: {.centre-it style="margin-top:auto; margin-bottom:auto;"}
+```{r}
+create_writings_image(
+  img_src = "../images/tidymodels-map.png",
+  url = "https://labs.ala.org.au/posts/2024-04-30_sdm-tidymodels/"
+)
+```
+:::
+
+[**An introduction to species distribution modelling using {tidysdm} & {tidymodels}**](https://labs.ala.org.au/posts/2024-04-30_sdm-tidymodels/) \
+Post for ALA Labs \
+[*April 2024*]{style="font-size:.8rem"}
+:::
+
+
+::: {layout="[[30,70]]"}
+::: {.centre-it style="margin-top:auto; margin-bottom:auto;"}
+```{r}
+create_writings_image(
+  img_src = "../images/waffle-chart.png",
+  url = "https://labs.ala.org.au/posts/2024-02-12_species-lists/"
+)
+```
+:::
+
+[**Download a species list and cross-reference with conservation status lists**](https://labs.ala.org.au/posts/2023-12-18_beginners-guide-make-a-map/) \
+Post for ALA Labs \
+[*February 2024*]{style="font-size:.8rem"}
+:::
+
+
+::: {layout="[[30,70]]"}
+::: {.centre-it style="margin-top:auto; margin-bottom:auto;"}
 ```{r}
 create_writings_image(
   img_src = "../images/beginners-map.png",
   url = "https://labs.ala.org.au/posts/2023-12-18_beginners-guide-make-a-map/"
 )
 ```
-
 :::
-::: {.g-col-8}
-[**Beginner’s guide: Make a quick map of species observations in Python and R}**](https://labs.ala.org.au/posts/2023-12-18_beginners-guide-make-a-map/) \
+
+[**Beginner’s guide: Make a quick map of species observations in Python and R**](https://labs.ala.org.au/posts/2023-12-18_beginners-guide-make-a-map/) \
 Post for ALA Labs \
 [*December 2023*]{style="font-size:.8rem"}
 :::
 
-::: {.g-col-4}
 
+::: {layout="[[30,70]]"}
+::: {.centre-it style="margin-top:auto; margin-bottom:auto;"}
 ```{r}
 create_writings_image(
   img_src = "../images/raincloud.png",
   url = "https://labs.ala.org.au/posts/2023-08-28_alternatives-to-box-plots/post.html"
 )
 ```
-
 :::
-::: {.g-col-8}
+
 [**Alternatives to box plots: Using beeswarm and raincloud plots to summarise ecological data}**](https://labs.ala.org.au/posts/2023-08-28_alternatives-to-box-plots/) \
 Post for ALA Labs \
 [*August 2023*]{style="font-size:.8rem"}
 :::
 
-::: {.g-col-4}
 
+::: {layout="[[30,70]]"}
+::: {.centre-it style="margin-top:auto; margin-bottom:auto;"}
 ```{r}
 create_writings_image(
   img_src = "../images/samplebias.png",
   url = "https://labs.ala.org.au/posts/2022-07-22_sample-bias/"
 )
 ```
-
 :::
-::: {.g-col-8}
+
 [**Quantify geographic sampling bias with {sampbias}**](https://labs.ala.org.au/posts/2022-07-22_sample-bias/) \
 Post for ALA Labs \
 [*August 2022*]{style="font-size:.8rem"}
 :::
 
-::: {.g-col-4}
 
+::: {layout="[[30,70]]"}
+::: {.centre-it style="margin-top:auto; margin-bottom:auto;"}
 ```{r}
 create_writings_image(
   img_src = "../images/map_plants-3d.png",
   url = "https://labs.ala.org.au/posts/2022-05-17_3d-map/"
 )
 ```
-
 :::
-::: {.g-col-8}
+
 [**Download plant species data by hexagon to make a 3D hex map**](https://labs.ala.org.au/posts/2022-05-17_3d-map/) \
 Post for ALA Labs \
 [*May 2022*]{style="font-size:.8rem"}
 :::
 
-
-:::
 :::

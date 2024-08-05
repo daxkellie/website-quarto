@@ -362,8 +362,8 @@ a {
 }
 
 .card-img-writings {
-  height:100px!important;
-  min-width: 4.5vh;
+  height:175px!important;
+  min-width: 5.5vh;
   width: 100%;
   object-fit: cover;
 }
