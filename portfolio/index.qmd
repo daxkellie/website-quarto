@@ -24,10 +24,10 @@ library(htmltools)
 tags$div(class = "row",# Create a row for 3 team-member cards
          
 create_portfolio_card(
-  title = "ALA Labs",
+  title = "Websites",
   image = "images/ala-labs.png",
-  url = "https://labs.ala.org.au/",
-  description = "Atlas of Living Australia's website for coding solutions to scientific problems."
+  url = "websites/index.html",
+  description = "Sites made in R & Quarto."
 ),
 create_portfolio_card(
   title = "Improving code reproducibility: Small steps with big impacts",

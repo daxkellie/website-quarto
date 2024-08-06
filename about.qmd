@@ -8,6 +8,10 @@ about:
   links:
     - icon: envelope
       href: "mailto:dax.kellie@csiro.au"
+    - icon: mastodon
+      href: "https://ecoevo.social/@daxkellie"
+    - icon: brightness-alt-high
+      href: "https://bsky.app/profile/daxkellie.bsky.social"
     - icon: twitter
       href: "https://twitter.com/daxkellie?lang=en"
     - icon: github
@@ -26,18 +30,9 @@ about:
 
 :::{.column-body-outset}
 
-## Education
-
-**Ph. D.** | Jul 2015 – Apr 2020  
-School of Biological Sciences, University of New South Wales<br>
-[Thesis: *Evolutionary and psychological insights into the suppression of female sexuality*]{style="font-size:0.8rem;"}
-
-**Bachelor of Science (Honours)** | Feb 2011 - Dec 2014  
-School of Biological Sciences, University of New South Wales
-
------------------------------------------------------------------------------
-
 ## Experience
+
+:::{style="font-size: .9rem;"}
 
 **Science Lead & Data Analyst** | Apr 2021 - Present  
 Atlas of Living Australia, CSIRO
@@ -56,6 +51,24 @@ School of Biological Sciences, UNSW
 
 **Research Assistant** | Sep 2019 - Nov 2019  
 School of Psychological Sciences, University of Melbourne
+
+:::
+
+-----------------------------------------------------------------------------
+
+
+## Education
+
+:::{style="font-size: .9rem;"}
+
+**Ph. D.** | Jul 2015 – Apr 2020  
+School of Biological Sciences, University of New South Wales<br>
+[Thesis: *Evolutionary and psychological insights into the suppression of female sexuality*]{style="font-size:0.8rem;"}
+
+**Bachelor of Science (Honours)** | Feb 2011 - Dec 2014  
+School of Biological Sciences, University of New South Wales
+
+:::
 
 :::
 

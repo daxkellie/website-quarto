@@ -81,7 +81,7 @@
     "href": "about.html",
     "title": "Dax Kellie",
     "section": "",
-    "text": "Ph. D. | Jul 2015 – Apr 2020\nSchool of Biological Sciences, University of New South Wales Thesis: Evolutionary and psychological insights into the suppression of female sexuality\nBachelor of Science (Honours) | Feb 2011 - Dec 2014\nSchool of Biological Sciences, University of New South Wales\n\n\n\n\nScience Lead & Data Analyst | Apr 2021 - Present\nAtlas of Living Australia, CSIRO\nData Analyst | Jul 2020 - Apr 2021\nIndigenous Mental Health & Suicide Prevention, Australian Institute of Health & Welfare\nProject Lead Researcher | Feb 2020 - Jul 2020\nSchool of Biological Sciences, UNSW\nPostgraduate Research | Jul 2015 - Apr 2020\nSchool of Biological Sciences, UNSW\nTutor & Lab Demonstrator | Mar 2016 - Apr 2020\nSchool of Biological Sciences, UNSW\nResearch Assistant | Sep 2019 - Nov 2019\nSchool of Psychological Sciences, University of Melbourne"
+    "text": "Science Lead & Data Analyst | Apr 2021 - Present\nAtlas of Living Australia, CSIRO\nData Analyst | Jul 2020 - Apr 2021\nIndigenous Mental Health & Suicide Prevention, Australian Institute of Health & Welfare\nProject Lead Researcher | Feb 2020 - Jul 2020\nSchool of Biological Sciences, UNSW\nPostgraduate Research | Jul 2015 - Apr 2020\nSchool of Biological Sciences, UNSW\nTutor & Lab Demonstrator | Mar 2016 - Apr 2020\nSchool of Biological Sciences, UNSW\nResearch Assistant | Sep 2019 - Nov 2019\nSchool of Psychological Sciences, University of Melbourne\n\n\n\n\n\n\nPh. D. | Jul 2015 – Apr 2020\nSchool of Biological Sciences, University of New South Wales Thesis: Evolutionary and psychological insights into the suppression of female sexuality\nBachelor of Science (Honours) | Feb 2011 - Dec 2014\nSchool of Biological Sciences, University of New South Wales"
   },
   {
     "objectID": "about.html#education",
@@ -158,7 +158,7 @@
     "href": "portfolio/index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "ALA Labs\nAtlas of Living Australia's website for coding solutions to scientific problems.\n\n\n\n\n\n\n\n\n\nImproving code reproducibility: Small steps with big impacts\nBlog post for Nature Ecology & Evolution Community | July 2023\n\n\n\n\n\n\n\n\n\nDataviz\nVisualisations made in R.\n\n\n\n\n\n\n\n\n\nPackages\nR packages for data science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBooks\nLong-form resources for data wrangling & analysis.\n\n\n\n\n\n\n\n\n\nPublications\nScientific publications, government reports and other articles.\n\n\n\n\n\n\n\n\n\nTutorials\nArticles to teach R & Python\n\n\n\n\n\n\n\n\n\nArt\nI dabble."
+    "text": "Websites\nSites made in R & Quarto.\n\n\n\n\n\n\n\n\n\nImproving code reproducibility: Small steps with big impacts\nBlog post for Nature Ecology & Evolution Community | July 2023\n\n\n\n\n\n\n\n\n\nDataviz\nVisualisations made in R.\n\n\n\n\n\n\n\n\n\nPackages\nR packages for data science.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBooks\nLong-form resources for data wrangling & analysis.\n\n\n\n\n\n\n\n\n\nPublications\nScientific publications, government reports and other articles.\n\n\n\n\n\n\n\n\n\nTutorials\nArticles to teach R & Python\n\n\n\n\n\n\n\n\n\nArt\nI dabble."
   },
   {
     "objectID": "portfolio/tutorials/index.html",
@@ -201,5 +201,12 @@
     "title": "Books",
     "section": "",
     "text": "Cleaning Biodiversity Data in R\nData cleaning is hard, but it’s a process that anyone who works with data must engage with if they want use their data to answer questions about the world. Cleaning Biodiversity Data in R is a practical guide to cleaning geo-referenced biodiversity data using R. It is a targeted resource for anyone working with or interested in answering questions using data in ecology and evolution."
+  },
+  {
+    "objectID": "portfolio/websites/index.html",
+    "href": "portfolio/websites/index.html",
+    "title": "Websites",
+    "section": "",
+    "text": "ALA Labs\nAtlas of Living Australia’s website for coding solutions to scientific problems."
   }
 ]

@@ -1,0 +1,35 @@
+---
+title: "Websites"
+subtitle: "Destinations when you're surfing the web"
+title-block-banner: "#F8EFE7"
+title-block-banner-color: "#934C12"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, include=FALSE}
+library(htmltools)
+source("../../R/functions.R")
+```
+
+
+::: {.column-body-outset}
+
+::: {layout-ncol="2"}
+::: {.centre-it style="margin-top:auto; margin-bottom:auto;"}
+```{r}
+create_proj_card(
+  img_src = "../images/ala-labs.png",
+  url = "https://labs.ala.org.au/",
+  title = "ALA Labs"
+)
+```
+:::
+
+[**ALA Labs**](https://labs.ala.org.au/) \
+Atlas of Living Australia's website for coding solutions to scientific problems.
+:::
+
+:::
