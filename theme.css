@@ -10,7 +10,7 @@
   --accent-brown: #CC9364;
   --accent-green: #234A30;
   --mono-font: 'Fira Code', monospace;
-  --body-font: 'Montserrat' serif;
+  --body-font: 'Josefin Sans' sans-serif;
   --link-green: #3E7A50;
 }
 
@@ -201,7 +201,7 @@ a {
   transition: transform .3s;
   flex-direction: column;
   background-color: #FFFFFF;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   border-radius: 10px; 
   margin: 16px 16px;
@@ -247,7 +247,7 @@ a {
 
 /* Add some shadows to create a card effect */
 .talk-card {
-  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
   padding-bottom: 20px;
   border-radius: 13px 13px;
     position: relative;
@@ -353,7 +353,7 @@ a {
   transition: transform .3s;
   flex-direction: column;
   background-color: #FFFFFF;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   border-radius: 10px; 
   margin: 16px 16px;
@@ -399,9 +399,10 @@ a {
 
 /* Add some shadows to create a card effect */
 .portfolio-card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding-bottom: 20px;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+  padding-bottom: 5px;
   border-radius: 10px;
+  border-color: var(--accent-brown);
 }
 
 /* Some left and right padding inside the container */
@@ -419,12 +420,19 @@ a {
 .portfolio-image {
   opacity: 1;
   display: block;
-  height: 250px;
+  height: 300px;
   width: auto;
   object-fit: cover;
   transition: .5s ease;
   backface-visibility: hidden;
   border-radius: 15px 20px 0px 0px;
+}
+
+@media screen and (max-width: 952px) {
+.portfolio-image {
+  height: 320px;
+  width: auto;
+}
 }
 
 .portfolio-image-text {
@@ -457,4 +465,8 @@ a {
   margin-bottom:5px;
   line-height: 1;
   text-decoration: none;!important
+}
+
+.listing-date {
+  font-family: var(--body-font);
 }
