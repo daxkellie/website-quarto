@@ -1,0 +1,21 @@
+---
+title: "Blue banded bee observations"
+subtitle: "Daily observations of blue banded bees ALA in 2024"
+date: "2024/08/17"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+
+![](blue-banded-bee.png)
+
+Dataviz for International Honey Bee Day
+
+:::{.column-margin}
+
+[Code](https://github.com/AtlasOfLivingAustralia/science/blob/main/comms/2024-08-06_bee-circlepack/blue-banded-bee.R)
+
+:::
+

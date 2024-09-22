@@ -5,6 +5,12 @@ listing:
     - title: Dataviz
       byline: "Made in R"
       visuals:
+        - name: Animals in 2024
+          img: bubbles_animalia/bubbles_animalia_logo.png
+          href: bubbles_animalia/index.html  
+        - name: Blue banded bee
+          img: dots_blue-banded-bee/blue-banded-bee.png
+          href: dots_blue-banded-bee/index.html  
         - name: Cambodia
           img: cambodia/cambodia.png
           href: cambodia/index.html  

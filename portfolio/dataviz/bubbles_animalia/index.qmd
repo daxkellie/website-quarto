@@ -1,0 +1,21 @@
+---
+title: "Animals in 2024"
+subtitle: "Number of *Animalia* observations added to the ALA in 2024"
+date: "2024/09/17"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+
+![](bubbles_animalia_logo.png)
+
+Dataviz for biodiversity month
+
+:::{.column-margin}
+
+[Code](https://github.com/AtlasOfLivingAustralia/science/blob/main/comms/2024-09-10_animalia/bubble-chart.R)
+
+:::
+

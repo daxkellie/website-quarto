@@ -9,6 +9,8 @@ title-block-banner-color: "#934C12"
 
 ## Scientific publications
 
+Lagisz, M., Westgate, M., **Kellie, D.**, & Nakagawa, S. (2024). [Going global by going local: Impacts and opportunities of geographically focused data integration](https://academic.oup.com/bioscience/advance-article-abstract/doi/10.1093/biosci/biae070/7745614). *BioScience*, biae070.
+
 Roger, E., **Kellie, D. J.**, Slatyer, C., Brenton, P., Torresan, O., Wallis, E., Zerger, A. (2023). [Open Access Research Infrastructures are Critical for Improving the Accessibility and Utility of Citizen Science: A Case Study of Australia’s National Biodiversity Infrastructure, the Atlas of Living Australia (ALA)](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.564?utm_source=nationaltribune&utm_medium=nationaltribune&utm_campaign=news). *Citizen Science: Theory and Practice*, *8*(1). \  
 [Preprint on EcoEvoRxiv](https://ecoevorxiv.org/repository/view/3650/)
 
