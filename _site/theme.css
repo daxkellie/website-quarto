@@ -172,28 +172,43 @@ a {
 }
 
 
+@media screen and (max-width: 1030px) {
+  .hero-image {
+    background-attachment: scroll;
+    padding: 0px 0px;
+    margin-bottom: 0em;
+    background-position: center;
+    background-size: 62%;
+  }
+}
 @media screen and (max-width: 952px) {
   .hero-image {
     background-attachment: scroll;
     padding: 0px 0px;
     margin-bottom: 0em;
     background-position: center;
-    background-size: 70%;
+    background-size: 62%;
   }
 }
-
-
-@media screen and (max-width: 900px) and (min-width: 850px) {
+@media screen and (max-width: 900px) {
   .hero-image {
     background-attachment: scroll;
     padding: 0px 0px;
     margin-bottom: 0em;
     background-position: center;
-    background-size: 60%;
+    background-size: 65%;
   }
 }
-
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 800px) {
+  .hero-image {
+    background-attachment: scroll;
+    padding: 0px 0px;
+    margin-bottom: 0em;
+    background-position: center;
+    background-size: 69%;
+  }
+}
+@media screen and (max-width: 700px) {
   .hero-image {
     background-attachment: scroll;
     padding: 0px 0px;
@@ -202,14 +217,23 @@ a {
     background-size: 80%;
   }
 }
-
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 607px) {
   .hero-image {
     background-attachment: scroll;
     padding: 0px 0px;
     margin-bottom: 0em;
     background-position: center;
-    background-size: cover;
+    background-size: 90%;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .hero-image {
+    background-attachment: scroll;
+    padding: 0px 0px;
+    margin-bottom: 0em;
+    background-position: center;
+    background-size: 100%;
   }
 }
 
