@@ -8,19 +8,15 @@ about:
   links:
     - icon: envelope
       href: "mailto:dax.kellie@csiro.au"
-    - icon: mastodon
-      href: "https://ecoevo.social/@daxkellie"
-    - icon: brightness-alt-high
+    - text: "{{< iconify fa6-brands:bluesky >}}"
       href: "https://bsky.app/profile/daxkellie.bsky.social"
-    - icon: twitter
-      href: "https://twitter.com/daxkellie?lang=en"
     - icon: github
       url: "https://github.com/daxkellie"
     - icon: linkedin
       href: "https://au.linkedin.com/in/dax-kellie-356473b2"
-    - icon: google
+    - text: "{{< iconify academicons google-scholar >}}"
       href: "https://scholar.google.com/citations?user=XcGVg2kAAAAJ&hl=en"
-    - icon: flower1
+    - text: "{{< iconify academicons osf >}}"
       href: "https://osf.io/fxwjr/"
     - icon: instagram
       href: "https://www.instagram.com/daxcantfax/?hl=en"

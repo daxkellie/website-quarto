@@ -25,7 +25,7 @@ website:
       - href: music.qmd
         text: Music
       - href: https://twitter.com/daxkellie
-        icon: twitter
+        text: "{{< iconify fa6-brands:bluesky >}}"
       - href: https://github.com/daxkellie
         icon: github
   search: true

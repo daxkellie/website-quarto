@@ -1,5 +1,11 @@
 
 - tiles:
+    - title: "Will your code run again? Tips for making code reproducible in R"
+      subtitle: ESA 2024, Melbourne
+      href: https://daxkellie.quarto.pub/will-your-code-run-again/#/title-slide
+      thumbnail: images/will-your-code-run.png
+      slides: https://daxkellie.quarto.pub/will-your-code-run-again/#/title-slide
+      repo: https://github.com/daxkellie/ESA2024
     - title: "How open & transparent science facilitates research reuse, not waste"
       subtitle: National Science Week, 2023
       href: https://youtu.be/Dp_jF8Zxyxc?t=2220
