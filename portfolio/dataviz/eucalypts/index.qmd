@@ -1,0 +1,19 @@
+---
+title: "Eucalypts"
+subtitle: "Dataviz for International Day of Forests"
+date: "03/21/2025"
+format: html
+filters:
+   - lightbox
+lightbox: auto
+---
+
+
+![](eucalyptus-trees_logo.png)
+
+:::{.column-margin}
+
+[Code](https://github.com/AtlasOfLivingAustralia/science/blob/main/comms/2025-03-18_forests-day/tree-counts.R)
+
+:::
+

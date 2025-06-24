@@ -23,7 +23,7 @@
   {
     "objectID": "portfolio/dataviz/raincloud/index.html",
     "href": "portfolio/dataviz/raincloud/index.html",
-    "title": "Leaf dry mass per area (LMA) of Australian plants",
+    "title": "Leaf variation",
     "section": "",
     "text": "ALA Labs how-to article"
   },
@@ -39,7 +39,7 @@
     "href": "portfolio/dataviz/index.html",
     "title": "Dataviz",
     "section": "",
-    "text": "Dataviz\n  Made in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Dataviz\n  Made in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "portfolio/dataviz/frogs_top5/index.html",
@@ -128,7 +128,7 @@
   {
     "objectID": "portfolio/dataviz/hexmap_frog/index.html",
     "href": "portfolio/dataviz/hexmap_frog/index.html",
-    "title": "Observations of Litoria peronii from majority citizen science vs non-citizen science projects",
+    "title": "The growing landscape of citizen science data",
     "section": "",
     "text": "Code\nThere were 2 other similar hex maps made for this figure, too:"
   },
@@ -229,5 +229,19 @@
     "title": "Animals in 2024",
     "section": "",
     "text": "Dataviz for biodiversity month\n\n\n\n\n\nCode"
+  },
+  {
+    "objectID": "portfolio/dataviz/eucalypts/index.html",
+    "href": "portfolio/dataviz/eucalypts/index.html",
+    "title": "Eucalypts",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "portfolio/dataviz/gondwana/index.html",
+    "href": "portfolio/dataviz/gondwana/index.html",
+    "title": "Gondwana Rainforests",
+    "section": "",
+    "text": "Code"
   }
 ]

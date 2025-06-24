@@ -1,5 +1,6 @@
 ---
-title: "Leaf dry mass per area (LMA) of Australian plants"
+title: "Leaf variation"
+subtitle: "Leaf dry mass per area (LMA) of Australian plants"
 date: "04/21/2023"
 format: html
 filters:

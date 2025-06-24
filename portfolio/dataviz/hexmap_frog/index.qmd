@@ -1,5 +1,6 @@
 ---
-title: "Observations of *Litoria peronii* from majority citizen science vs non-citizen science projects"
+title: "The growing landscape of citizen science data"
+subtitle: "Observations of *Litoria peronii* from majority citizen science vs non-citizen science projects"
 date: "04/21/2023"
 format: html
 filters:

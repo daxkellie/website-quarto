@@ -5,6 +5,12 @@ listing:
     - title: Dataviz
       byline: "Made in R"
       visuals:
+        - name: Gondwana Rainforests
+          img: gondwana/gondwana_logo.png
+          href: gondwana/index.html  
+        - name: Eucalypts
+          img: eucalypts/eucalyptus-trees_logo.png
+          href: eucalypts/index.html  
         - name: Animals in 2024
           img: bubbles_animalia/bubbles_animalia_logo.png
           href: bubbles_animalia/index.html  
