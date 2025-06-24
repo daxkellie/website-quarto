@@ -22,14 +22,59 @@ source("../../R/functions.R")
 ```{r}
 create_proj_card(
   img_src = "../images/galah_logo.png",
-  url = "https://galah.ala.org.au/R/",
+  url = "https://galah.ala.org.au/",
   title = "galah"
 )
 ```
 :::
 
-[**galah**](https://galah.ala.org.au/R/) \
+[**galah**](https://galah.ala.org.au/) \
 The galah package uses tidy syntax to download biodiversity data from GBIF, the ALA, and other Living Atlases.
+:::
+
+::: {layout-ncol="2"}
+::: {.centre-it style="margin-top:auto; margin-bottom:auto;"}
+```{r}
+create_proj_card(
+  img_src = "../images/corella-logo.png",
+  url = "https://corella.ala.org.au/",
+  title = "corella"
+)
+```
+:::
+
+[**corella**](https://corella.ala.org.au/) \
+The corella package helps users standardise their data using the [Darwin Core Standard](https://dwc.tdwg.org/). The package centres around `set_` functions, which are wrappers around `dplyr::mutate()` and let users add or modify columns with helpful suggestions and data checks.
+:::
+
+::: {layout-ncol="2"}
+::: {.centre-it style="margin-top:auto; margin-bottom:auto;"}
+```{r}
+create_proj_card(
+  img_src = "../images/galaxias-logo.png",
+  url = "https://galaxias.ala.org.au/",
+  title = "corella"
+)
+```
+:::
+
+[**galaxias**](https://corella.ala.org.au/) \
+The galaxias package lets people describe, bundle, and share biodiversity information using the [Darwin Core Standard](https://dwc.tdwg.org/). The package mirrors funtionality in devtools, usethis and dplyr.
+:::
+
+::: {layout-ncol="2"}
+::: {.centre-it style="margin-top:auto; margin-bottom:auto;"}
+```{r}
+create_proj_card(
+  img_src = "../images/delma-logo.png",
+  url = "https://delma.ala.org.au/R/",
+  title = "corella"
+)
+```
+:::
+
+[**delma**](https://delma.ala.org.au/) \
+The delma package converts metadata statements written in R Markdown or Quarto markdown to Ecological Metadata Language (EML).
 :::
 
 :::

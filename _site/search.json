@@ -193,7 +193,7 @@
     "href": "portfolio/packages/index.html",
     "title": "Packages",
     "section": "",
-    "text": "galah\nThe galah package uses tidy syntax to download biodiversity data from GBIF, the ALA, and other Living Atlases."
+    "text": "galah\nThe galah package uses tidy syntax to download biodiversity data from GBIF, the ALA, and other Living Atlases.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncorella\nThe corella package helps users standardise their data using the Darwin Core Standard. The package centres around set_ functions, which are wrappers around dplyr::mutate() and let users add or modify columns with helpful suggestions and data checks.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngalaxias\nThe galaxias package lets people describe, bundle, and share biodiversity information using the Darwin Core Standard. The package mirrors funtionality in devtools, usethis and dplyr.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndelma\nThe delma package converts metadata statements written in R Markdown or Quarto markdown to Ecological Metadata Language (EML)."
   },
   {
     "objectID": "portfolio/books/index.html",
